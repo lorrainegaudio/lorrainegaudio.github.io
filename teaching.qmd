@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+---
+
+# Teaching
+
+## Teaching philosophy
+
+My teaching is grounded in the belief that students learn best when they are supported through productive struggle, clear expectations, and meaningful opportunities to practice. I am especially interested in how students learn technical skills in the AI era while developing agency, persistence, transparency, and critical judgment.
+
+## DATA-R155 redesign {#data-r155}
+
+This section will describe my redesign of Introduction to R Programming, including the compressed course format, specifications grading, reproducible workflows, and AI-era learning activities.
+
+## OER and course materials {#oer}
+
+This section will highlight selected open educational resources and course materials created for students learning R, documentation workflows, and responsible AI use.
+
+## SoTL project {#sotl}
+
+This section will describe my Scholarship of Teaching and Learning project connected to the DATA-R155 redesign.
+
+## Teaching certificates {#certificates}
+
+This section will list selected teaching certificates and professional development activities.

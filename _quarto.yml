@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lorraine Gaudio"
+
+  navbar:
+    title: "Lorraine Gaudio"
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research & Collaborations"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV & Selected Work"
+        href: cv.qmd
+
+  page-footer:
+    left: "© 2026 Lorraine Gaudio | lorrainegaudio [at] boisestate [dot] edu"
+    right:
+      - text: "LinkedIn"
+        href: "https://www.linkedin.com/in/lorraine-gaudio/"
+      - text: "ORCID"
+        href: "https://orcid.org/0009-0000-2170-7310"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true

@@ -1,0 +1,86 @@
+---
+title: "Home"
+page-layout: full
+---
+
+::: {.hero}
+# Lorraine Gaudio
+
+PhD student in Computing and RISE Fellow studying how emerging technologies shape research, learning, and human flourishing.
+
+[Research & Collaborations](research.qmd){.btn .btn-primary}
+[Download CV](cv.qmd){.btn .btn-secondary}
+:::
+
+::: {.network-banner}
+:::
+
+## What I study
+
+I study how knowledge, values, and emerging AI practices move through research and learning communities. My work brings together data analytics, social network analysis, mixed methods, and human-centered approaches to emerging technology.
+
+## What I do
+
+::: {.feature-grid}
+::: {.feature-card}
+### Map knowledge networks
+
+I use network thinking to study collaboration, technology adoption, and the movement of practices across communities.
+:::
+
+::: {.feature-card}
+### Study AI in practice
+
+I examine how people learn, teach, collaborate, and make decisions with generative AI and other emerging technologies.
+:::
+
+::: {.feature-card}
+### Build bridges across fields
+
+I work across computing, anthropology, education, and responsible innovation to support more thoughtful technology use.
+:::
+:::
+
+## Research nodes
+
+::: {.node-grid}
+::: {.node-card .node-one}
+### Knowledge Networks & Responsible AI
+
+My current research direction focuses on how knowledge, values, and AI practices move through research and learning communities.
+
+[Explore direction](research.qmd#current-direction)
+:::
+
+::: {.node-card .node-two}
+### Social Impacts of Emerging Technologies
+
+RISE and SioC connect my work to broader questions about emerging technologies, well-being, and interdisciplinary collaboration.
+
+[View work](research.qmd#rise-sioc)
+:::
+
+::: {.node-card .node-three}
+### Human-Centered AI Communities
+
+I contribute to projects that examine how AI is shaping practice in education, healthcare, and community settings.
+
+[View collaboration](research.qmd#i2hcai)
+:::
+
+::: {.node-card .node-four}
+### Teaching, Learning, and AI
+
+My teaching work explores AI-era learning, R programming, student agency, and responsible tool use.
+
+[View teaching](teaching.qmd#data-r155)
+:::
+
+::: {.node-card .node-five}
+### Network Analysis & Collaboration
+
+My master’s thesis used social network analysis to study interdisciplinary collaboration at Boise State.
+
+[View foundation](research.qmd#masters-thesis)
+:::
+:::
