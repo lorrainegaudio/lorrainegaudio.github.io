@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV & Selected Work",
+    "section": "",
+    "text": "A downloadable CV will be added here.\n\n\n\nThis section will hold a small collection of selected undergraduate and graduate work. These items are included as an academic archive rather than as the main focus of the website."
+  },
+  {
+    "objectID": "cv.html#download-cv",
+    "href": "cv.html#download-cv",
+    "title": "CV & Selected Work",
+    "section": "",
+    "text": "A downloadable CV will be added here."
+  },
+  {
+    "objectID": "cv.html#selected-academic-archive",
+    "href": "cv.html#selected-academic-archive",
+    "title": "CV & Selected Work",
+    "section": "",
+    "text": "This section will hold a small collection of selected undergraduate and graduate work. These items are included as an academic archive rather than as the main focus of the website."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & Collaborations",
+    "section": "",
+    "text": "My current research examines how knowledge, values, and emerging AI practices move through research and learning communities. I am especially interested in how people learn, collaborate, trust, and make responsible decisions with emerging technologies.\n\n\n\nThis section will describe my RISE fellowship and my involvement with the Social Impacts of Computing community. It will connect my current and future work on emerging technologies, well-being, interdisciplinary learning, and responsible innovation.\n\n\n\nThis section will describe my work with the Idaho Institute for Human-Centered AI and related community-engaged research on AI in education, healthcare, and professional practice.\n\n\n\nThis section will describe AI in Research Optimized Ethically as a previous collaboration that helped shape my interest in generative AI, research integrity, institutional change, and interdisciplinary values.\n\n\n\nMy master’s thesis used social network analysis to examine interdisciplinary collaboration in Boise State’s Grand Challenges initiative. This project helped shape my current interest in knowledge networks, collaboration structures, and the conditions that support or limit interdisciplinary research.\nLink to thesis will go here."
+  },
+  {
+    "objectID": "research.html#current-direction",
+    "href": "research.html#current-direction",
+    "title": "Research & Collaborations",
+    "section": "",
+    "text": "My current research examines how knowledge, values, and emerging AI practices move through research and learning communities. I am especially interested in how people learn, collaborate, trust, and make responsible decisions with emerging technologies."
+  },
+  {
+    "objectID": "research.html#rise-sioc",
+    "href": "research.html#rise-sioc",
+    "title": "Research & Collaborations",
+    "section": "",
+    "text": "This section will describe my RISE fellowship and my involvement with the Social Impacts of Computing community. It will connect my current and future work on emerging technologies, well-being, interdisciplinary learning, and responsible innovation."
+  },
+  {
+    "objectID": "research.html#i2hcai",
+    "href": "research.html#i2hcai",
+    "title": "Research & Collaborations",
+    "section": "",
+    "text": "This section will describe my work with the Idaho Institute for Human-Centered AI and related community-engaged research on AI in education, healthcare, and professional practice."
+  },
+  {
+    "objectID": "research.html#airoe",
+    "href": "research.html#airoe",
+    "title": "Research & Collaborations",
+    "section": "",
+    "text": "This section will describe AI in Research Optimized Ethically as a previous collaboration that helped shape my interest in generative AI, research integrity, institutional change, and interdisciplinary values."
+  },
+  {
+    "objectID": "research.html#masters-thesis",
+    "href": "research.html#masters-thesis",
+    "title": "Research & Collaborations",
+    "section": "",
+    "text": "My master’s thesis used social network analysis to examine interdisciplinary collaboration in Boise State’s Grand Challenges initiative. This project helped shape my current interest in knowledge networks, collaboration structures, and the conditions that support or limit interdisciplinary research.\nLink to thesis will go here."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching is grounded in the belief that students learn best when they are supported through productive struggle, clear expectations, and meaningful opportunities to practice. I am especially interested in how students learn technical skills in the AI era while developing agency, persistence, transparency, and critical judgment.\n\n\n\nThis section will describe my redesign of Introduction to R Programming, including the compressed course format, specifications grading, reproducible workflows, and AI-era learning activities.\n\n\n\nThis section will highlight selected open educational resources and course materials created for students learning R, documentation workflows, and responsible AI use.\n\n\n\nThis section will describe my Scholarship of Teaching and Learning project connected to the DATA-R155 redesign.\n\n\n\nThis section will list selected teaching certificates and professional development activities."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching is grounded in the belief that students learn best when they are supported through productive struggle, clear expectations, and meaningful opportunities to practice. I am especially interested in how students learn technical skills in the AI era while developing agency, persistence, transparency, and critical judgment."
+  },
+  {
+    "objectID": "teaching.html#data-r155",
+    "href": "teaching.html#data-r155",
+    "title": "Teaching",
+    "section": "",
+    "text": "This section will describe my redesign of Introduction to R Programming, including the compressed course format, specifications grading, reproducible workflows, and AI-era learning activities."
+  },
+  {
+    "objectID": "teaching.html#oer",
+    "href": "teaching.html#oer",
+    "title": "Teaching",
+    "section": "",
+    "text": "This section will highlight selected open educational resources and course materials created for students learning R, documentation workflows, and responsible AI use."
+  },
+  {
+    "objectID": "teaching.html#sotl",
+    "href": "teaching.html#sotl",
+    "title": "Teaching",
+    "section": "",
+    "text": "This section will describe my Scholarship of Teaching and Learning project connected to the DATA-R155 redesign."
+  },
+  {
+    "objectID": "teaching.html#certificates",
+    "href": "teaching.html#certificates",
+    "title": "Teaching",
+    "section": "",
+    "text": "This section will list selected teaching certificates and professional development activities."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "PhD student in Computing and RISE Fellow studying how emerging technologies shape research, learning, and human flourishing.\nResearch & Collaborations Download CV"
+  },
+  {
+    "objectID": "index.html#what-i-study",
+    "href": "index.html#what-i-study",
+    "title": "Home",
+    "section": "What I study",
+    "text": "What I study\nI study how knowledge, values, and emerging AI practices move through research and learning communities. My work brings together data analytics, social network analysis, mixed methods, and human-centered approaches to emerging technology."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Home",
+    "section": "What I do",
+    "text": "What I do\n\n\nMap knowledge networks\nI use network thinking to study collaboration, technology adoption, and the movement of practices across communities.\n\n\nStudy AI in practice\nI examine how people learn, teach, collaborate, and make decisions with generative AI and other emerging technologies.\n\n\nBuild bridges across fields\nI work across computing, anthropology, education, and responsible innovation to support more thoughtful technology use."
+  },
+  {
+    "objectID": "index.html#research-nodes",
+    "href": "index.html#research-nodes",
+    "title": "Home",
+    "section": "Research nodes",
+    "text": "Research nodes\n\n\nKnowledge Networks & Responsible AI\nMy current research direction focuses on how knowledge, values, and AI practices move through research and learning communities.\nExplore direction\n\n\nSocial Impacts of Emerging Technologies\nRISE and SioC connect my work to broader questions about emerging technologies, well-being, and interdisciplinary collaboration.\nView work\n\n\nHuman-Centered AI Communities\nI contribute to projects that examine how AI is shaping practice in education, healthcare, and community settings.\nView collaboration\n\n\nTeaching, Learning, and AI\nMy teaching work explores AI-era learning, R programming, student agency, and responsible tool use.\nView teaching\n\n\nNetwork Analysis & Collaboration\nMy master’s thesis used social network analysis to study interdisciplinary collaboration at Boise State.\nView foundation"
+  }
+]
