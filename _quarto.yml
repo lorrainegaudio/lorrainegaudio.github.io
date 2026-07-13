@@ -24,8 +24,10 @@ website:
     right:
       - text: "LinkedIn"
         href: "https://www.linkedin.com/in/lorraine-gaudio/"
+        target: _blank
       - text: "ORCID"
         href: "https://orcid.org/0009-0000-2170-7310"
+        target: _blank
 
 format:
   html:
