@@ -1,16 +1,25 @@
----
-title: "Home"
-page-layout: full
----
+:::: {.grid .align-items-center}
 
-::: {.hero}
-# Lorraine Gaudio
+::: {.g-col-12 .g-col-md-7}
+## Lorraine Gaudio
 
-PhD student in Computing and RISE Fellow studying how emerging technologies shape research, learning, and human flourishing.
+Hello World!
 
-[Research & Collaborations](research.qmd){.btn .btn-primary}
-[Download CV](cv.qmd){.btn .btn-secondary}
+After 20-plus years of grooming dogs, I did a 180 and went back to school. I earned a master’s degree in anthropology and am now pursuing a PhD in computing with a focus on knowledge networks, responsible AI, and interdisciplinary collaboration. I am also a RISE Fellow studying how emerging technologies shape research, learning, and human flourishing.
 :::
+
+::: {.g-col-12 .g-col-md-5}
+![](assets/images/profile_square.jpg){width="70%" .img-fluid .d-block .mx-auto}
+:::
+
+::::
+
+
+:::: {.row .align-items-center .g-4}
+
+
+
+::::
 
 ::: {.network-banner}
 :::

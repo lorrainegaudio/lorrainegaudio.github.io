@@ -34,7 +34,7 @@ Novice programmers need explicit support for problem-solving processes (Loksa et
 
 Along with the learning routine emojis, I use emojis to highlight learning skills that support the development of intellectual virtues (Baehr, 2022). Each module foregrounds a learning skill: 💪 tenacity, ✍️ transparency, 🦁 courage, 🧭 autonomy, 🤔 open-mindedness, 🐱 curiosity, or ✔️ thoroughness. Using the emoji, I model how to document the highlighted skill within the guided activity. Then I prompt students to practice the skill within the practice space.
 
-- [*Goal, Code, Verify, Reflect: Guided Activities for Learning R Workflow*](https://github.com/lorrainegaudio/guided-activities-for-learning-R-workflow) — living OER draft; publicly available chapters may change while the course is being taught.
+- [*Goal, Code, Verify, Reflect: Guided Activities for Learning R Workflow*](https://github.com/lorrainegaudio/guided-activities-for-learning-R-workflow){target="_blank"} — living OER draft; publicly available chapters may change while the course is being taught.
 
 Because the online OER is still being developed and used in an active course, the public chapters change as modules are revised or released to students.
 
