@@ -22,8 +22,6 @@ I am designing a living open educational resource (OER). This textbook is public
 
 ### **Explainable and reproducible work.** 
 
-The goal is to teach students how to learn R, covering more breadth than depth. The OER intentionally introduces most R programming skills at Bloom's "understanding" level while showcasing some RStudio capabilities.
-
 The goal is to teach students how to learn R, covering more breadth than depth. Most R programming skills are introduced at the “understanding” level in Bloom’s taxonomy. Students are expected to explain how code works; memorizing functions is not a course expectation. The OER also showcases selected RStudio capabilities, providing students with ideas on how learning R can be extended beyond the course.
 
 The text does not only introduce R navigation, syntax, debugging, data manipulation, and visualization at an introductory level. It's activities teach formatting for an R script, R Notebook, and Quarto files that place code within a written account of learning reflections. I emphasize reading and explaining code, investigating unfamiliar functions, and leaving a record that makes the work easier to revisit and follow. Students learn how to format their R files into sharable HTML reports.
@@ -84,14 +82,15 @@ In an AI-assisted introductory R course, the need for process evidence becomes s
 
 I presented the study design in the poster *Redesigning DATA-R155 for the AI Era* at Boise State's 2026 Great Ideas for Teaching and Learning Summit.  
 
-- [“Redesigning DATA-R155 for the AI Era”](assets/materials/data-r155-ai-era-poster.pdf) — 2026 teaching-and-learning poster
-- [“Designing for Productive Learning Struggles with AI”](https://event.fourwaves.com/innovateidaho/abstracts/c5eb621e-24fe-43d0-a540-f3e666ed6ff7) — Innovate Idaho 2026
+- [“Redesigning DATA-R155 for the AI Era”](assets/materials/data-r155-ai-era-poster.pdf){target="_blank"} — 2026 teaching-and-learning poster
+- [“Designing for Productive Learning Struggles with AI”](https://event.fourwaves.com/innovateidaho/abstracts/c5eb621e-24fe-43d0-a540-f3e666ed6ff7){target="_blank"} — Innovate Idaho 2026
 
 ---
 
 ## Teaching certificates {#certificates}
 
 My course development has been supported by continuing work in online teaching, instructional design, accessibility, and reflective course revision.
+
 - **eCampus Center Intermediate Online Teaching**, Boise State University, February 2026
 - **eCampus Center Basic Online Teaching**, Boise State University, November 2024
 - **Teaching and Learning in Higher Education**, Boise State University, August 2023

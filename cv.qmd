@@ -2,8 +2,6 @@
 title: "CV & Selected Work"
 ---
 
-# CV & Selected Work
-
 ## Download CV
 
 A downloadable CV will be added here.
