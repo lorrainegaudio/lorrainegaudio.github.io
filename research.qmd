@@ -2,8 +2,6 @@
 title: "Research & Collaborations"
 ---
 
-# Research & Collaborations
-
 ## Current research direction {#current-direction}
 
 My current research examines how knowledge, values, and emerging AI practices move through research and learning communities. I am especially interested in how people learn, collaborate, trust, and make responsible decisions with emerging technologies.

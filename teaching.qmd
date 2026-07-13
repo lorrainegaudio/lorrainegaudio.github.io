@@ -2,8 +2,6 @@
 title: "Teaching"
 ---
 
-# Teaching
-
 My teaching is grounded in the belief that students learn best when they are supported through productive struggle, clear expectations, and meaningful opportunities to practice. I am especially interested in how students learn technical skills in the AI era while developing agency, persistence, transparency, and critical judgment.
 
 ## DATA-R155 redesign {#data-r155}
@@ -42,13 +40,13 @@ Along with the learning routine emojis, I use emojis to highlight learning skill
 
 ---
 
-- [*Goal, Code, Verify, Reflect: Guided Activities for Learning R Workflow*](https://github.com/lorrainegaudio/guided-activities-for-learning-R-workflow) — living OER draft; publicly available chapters may change while the course is being taught
+- [*Goal, Code, Verify, Reflect: Guided Activities for Learning R Workflow*](https://github.com/lorrainegaudio/guided-activities-for-learning-R-workflow) — living OER draft; publicly available chapters may change while the course is being taught.
 
 Because the online OER is still being developed and used in an active course, the public chapters change as modules are revised or released to students.
 
 ## Canvas learning environment {#canvas}
 
-The Canvas site is the working course environment students use to access modules, complete activities, submit work, and receive feedback. It links the OER to low-stakes Core assessments and advanced learning activities.
+The Canvas site is the working course environment students use to access modules, complete activities, submit work, and receive feedback. It links the OER to low-stakes core assessments and advanced learning activities.
 
 To support an alignment with outcomes, promote revisions, and encourage students to take ownership of their learning, I've carefully designed the assessment structure. 
 
