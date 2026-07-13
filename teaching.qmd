@@ -14,13 +14,11 @@ Since summer 2025 semester, I've iteratively redesigned DATA-R155 around a quest
 
 The redesign takes form through two connected instructional resources. A digital open educational resource guides students through R, learning routines, and selected AI practices. A Canvas course environment organizes pacing, assessment, student choice, and submitted work. I designed, authored, built, and teach these resources with instructional-design guidance from Boise State eCampus and professional-development support from the Center for Teaching and Learning.
 
----
-
 ## Open educational resource {#oer}
 
 I am designing a living open educational resource (OER). This textbook is publicly available on GitHub and is designed to be iteratively improved based on student feedback and my own teaching experience. 
 
-### **Explainable and reproducible work.** 
+### Explainable and reproducible work 
 
 The goal is to teach students how to learn R, covering more breadth than depth. Most R programming skills are introduced at the “understanding” level in Bloom’s taxonomy. Students are expected to explain how code works; memorizing functions is not a course expectation. The OER also showcases selected RStudio capabilities, providing students with ideas on how learning R can be extended beyond the course.
 
@@ -28,15 +26,13 @@ The text does not only introduce R navigation, syntax, debugging, data manipulat
  
 The design is intended to empower students so that they can independently learn the techniques for their data analytic needs after the course. This approach makes the course applicable to students with a wide range of backgrounds and future goals.
 
-### **Self-regulated learning routines.** 
+### Self-regulated learning routines 
 
 Novice programmers need explicit support for problem-solving processes (Loksa et al., 2016). Students learn how to manage confusion and strengthen their metacognitive awareness with the aid of recurring emojis 🎯 Goal, ⚡ Code, ✅ Verify, and 🗣 Reflect. Emojis are used to illuminate the routine.
 
-### **Learning skills embedded.** 
+### Learning skills embedded 
 
 Along with the learning routine emojis, I use emojis to highlight learning skills that support the development of intellectual virtues (Baehr, 2022). Each module foregrounds a learning skill: 💪 tenacity, ✍️ transparency, 🦁 courage, 🧭 autonomy, 🤔 open-mindedness, 🐱 curiosity, or ✔️ thoroughness. Using the emoji, I model how to document the highlighted skill within the guided activity. Then I prompt students to practice the skill within the practice space.
-
----
 
 - [*Goal, Code, Verify, Reflect: Guided Activities for Learning R Workflow*](https://github.com/lorrainegaudio/guided-activities-for-learning-R-workflow) — living OER draft; publicly available chapters may change while the course is being taught.
 
@@ -48,13 +44,13 @@ The Canvas site is the working course environment students use to access modules
 
 To support an alignment with outcomes, promote revisions, and encourage students to take ownership of their learning, I've carefully designed the assessment structure. 
 
-### **Specifications grading.**  
+### Specifications grading  
 
 Research on feedback and assessment shaped this choice. Self-regulated learning routines promote the use of feedback to revise work, but grades can redirect students' attention away from comments and toward feelings of judgment. The presence and value of a numerical grade can also shape how students perceive written feedback (Black et al., 2004; Lancaster et al., 2020). Because mastery-oriented assessment can change the meaning of assessment (Smeding et al., 2013), I selected specifications grading to create conditions for self-regulated learning. This grading system offers one structure for aligning assessment with mastery, feedback use, and revision (Nilson & Packowski, 2025).
 
 This approach organizes the course around work evaluated as ✅ Complete or 🟡 Not Ready. All students complete a shared 🌱 core to earn a passing grade (C), then select from a larger set of 🌳 advanced activities to earn a higher grade (B/A). Completing activities unlocks more activity choices, allowing students to decide where they want to extend their learning and what work they will undertake toward their intended grade.
 
-### **AI as a resource for learning.** 
+### AI as a resource for learning 
 
 LLMs may interfere with novice self-regulation when students move directly from prompt to generated solution, bypassing planning and reflection (Prasad & Sane, 2024).
 
@@ -62,13 +58,11 @@ I designed guided activities that help students use generative AI to investigate
 
 Many activities offer optional AI-use guidance. For example, one activity asks students to explain a provided R script. Students can choose whether an AI tool or a classmate will reconstruct the code from that explanation. The reconstruction makes ambiguities in the explanation visible. Similar choices appear throughout the course, giving students a choice between working with a peer or an AI system. 
 
-### **Instructional design.**
+### Instructional design
 
 I designed, authored, built, and teach the course with instructional-design guidance from Boise State eCampus and professional-development support from the Center for Teaching and Learning. I also participated in Boise State's faculty learning communities "Designing for Student Success" and "Accessible by Design," applying that work to the structure and presentation of DATA-R155.
 
 The Canvas course environment offers multiple ways for students to navigate the course, including through a website-like page design, a module-based structure, and a weekly calendar. A consistent weekly structure helps students know what to expect and how to plan their work. I use Canvas Learning Mastery Gradebook, custom letter grade, and module requirements to support specifications grading and assignment access. The Canvas sandbox can be used for either online or in-person course delivery. 
-
----
 
 This redesign is one place where my teaching and research meet.
 
@@ -82,10 +76,9 @@ In an AI-assisted introductory R course, the need for process evidence becomes s
 
 I presented the study design in the poster *Redesigning DATA-R155 for the AI Era* at Boise State's 2026 Great Ideas for Teaching and Learning Summit.  
 
-- [“Redesigning DATA-R155 for the AI Era”](assets/materials/data-r155-ai-era-poster.pdf){target="_blank"} — 2026 teaching-and-learning poster
-- [“Designing for Productive Learning Struggles with AI”](https://event.fourwaves.com/innovateidaho/abstracts/c5eb621e-24fe-43d0-a540-f3e666ed6ff7){target="_blank"} — Innovate Idaho 2026
+- [“Redesigning DATA-R155 for the AI Era”](assets/materials/data-r155-ai-era-poster.pdf){target="_blank"} — Boise State University Great Ideas for Teaching and Learning Summit 2026 **poster**
 
----
+- [“Designing for Productive Learning Struggles with AI”](https://event.fourwaves.com/innovateidaho/abstracts/c5eb621e-24fe-43d0-a540-f3e666ed6ff7){target="_blank"} — Innovate Idaho 2026 Lighting Talk **video**
 
 ## Teaching certificates {#certificates}
 
