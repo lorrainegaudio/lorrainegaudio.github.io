@@ -1,0 +1,143 @@
+/* Base style */
+
+body {
+  background-color: #fffdf6;
+  color: #1f2a33;
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+/* Navbar */
+
+.navbar {
+  background-color: #fffdf6;
+  border-bottom: 1px solid #e7dfcf;
+}
+
+.navbar-title {
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+/* Hero section */
+
+.hero {
+  padding: 5rem 8%;
+  background: linear-gradient(135deg, #f9f1d2 0%, #e9f4f7 100%);
+  border-bottom: 1px solid #e7dfcf;
+}
+
+.hero h1 {
+  font-size: 3.4rem;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  max-width: 760px;
+  font-size: 1.25rem;
+}
+
+/* Network banner placeholder */
+
+.network-banner {
+  min-height: 180px;
+  background:
+    radial-gradient(circle at 20% 40%, rgba(62, 114, 134, 0.45) 0 8px, transparent 9px),
+    radial-gradient(circle at 40% 60%, rgba(62, 114, 134, 0.35) 0 6px, transparent 7px),
+    radial-gradient(circle at 65% 35%, rgba(62, 114, 134, 0.4) 0 10px, transparent 11px),
+    radial-gradient(circle at 80% 55%, rgba(62, 114, 134, 0.35) 0 7px, transparent 8px),
+    linear-gradient(90deg, #f8efd3, #dceff4);
+  border-top: 1px solid #e7dfcf;
+  border-bottom: 1px solid #e7dfcf;
+}
+
+/* Content width */
+
+main.content {
+  max-width: 1100px;
+}
+
+/* Feature cards */
+
+.feature-grid,
+.node-grid {
+  display: grid;
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.feature-grid {
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.node-grid {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
+
+.feature-card,
+.node-card {
+  padding: 1.4rem;
+  border: 1px solid #e2d8c7;
+  border-radius: 18px;
+  background-color: #ffffff;
+  box-shadow: 0 8px 24px rgba(31, 42, 51, 0.06);
+}
+
+.feature-card h3,
+.node-card h3 {
+  margin-top: 0;
+}
+
+/* Node cards */
+
+.node-card {
+  min-height: 220px;
+}
+
+.node-one {
+  border-top: 8px solid #3e7286;
+}
+
+.node-two {
+  border-top: 8px solid #b99b4a;
+}
+
+.node-three {
+  border-top: 8px solid #7a8f6a;
+}
+
+.node-four {
+  border-top: 8px solid #9d6f7f;
+}
+
+.node-five {
+  border-top: 8px solid #6d7f99;
+}
+
+/* Buttons */
+
+.btn {
+  margin-right: 0.75rem;
+  margin-top: 1rem;
+  border-radius: 999px;
+  padding: 0.7rem 1.15rem;
+}
+
+.btn-primary {
+  background-color: #3e7286;
+  border-color: #3e7286;
+}
+
+.btn-secondary {
+  background-color: #ffffff;
+  border-color: #3e7286;
+  color: #3e7286;
+}
+
+/* Footer */
+
+.nav-footer {
+  border-top: 1px solid #e7dfcf;
+  background-color: #fffdf6;
+}
