@@ -144,16 +144,8 @@ ul.task-list li input[type="checkbox"] {
 <p>After 20-plus years of grooming dogs, I did a 180 and went back to school. I earned a master’s degree in anthropology and am now pursuing a PhD in computing with a focus on knowledge networks, responsible AI, and interdisciplinary collaboration. I am also a RISE Fellow studying how emerging technologies shape research, learning, and human flourishing.</p>
 </section>
 <div class="g-col-12 g-col-md-5">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="assets/images/profile_square.jpg" class="img-fluid d-block mx-auto figure-img" style="width:70.0%"></p>
-<figcaption>Portrait of Lorraine Gaudio</figcaption>
-</figure>
+<p><img src="assets/images/profile_square.jpg" class="img-fluid d-block mx-auto" style="width:70.0%"></p>
 </div>
-</div>
-</div>
-<div class="hero">
-<p><a href="./research.html" class="btn btn-primary">Research &amp; Collaborations</a> <a href="./cv.html" class="btn btn-secondary">Download CV</a></p>
 </div>
 <div class="row align-items-center g-4">
 
@@ -289,7 +281,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/lorrainegaudio\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
