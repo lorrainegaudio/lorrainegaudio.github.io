@@ -102,6 +102,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research &amp; Collaborations</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./rise.html"> 
+<span class="menu-text">RISE Fellowship</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
@@ -185,7 +189,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="social-impacts-of-emerging-technologies" class="level3 node-card node-two">
 <h3 class="anchored" data-anchor-id="social-impacts-of-emerging-technologies">Social Impacts of Emerging Technologies</h3>
 <p>RISE and SioC connect my work to broader questions about emerging technologies, well-being, and interdisciplinary collaboration.</p>
-<p><a href="./research.html#rise-sioc">View work</a></p>
+<p><a href="./rise.html">View work</a></p>
 </section>
 <section id="human-centered-ai-communities" class="level3 node-card node-three">
 <h3 class="anchored" data-anchor-id="human-centered-ai-communities">Human-Centered AI Communities</h3>
@@ -281,7 +285,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/lorrainegaudio\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

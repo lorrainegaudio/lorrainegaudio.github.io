@@ -2,47 +2,50 @@
 title: "RISE Fellowship"
 ---
 
-My RISE fellowship work is grounded in the idea that AI research should be shaped by the people, values, and social systems it affects. I am especially interested in how research communities share ideas, distribute voice and influence, respond to disagreement, and correct errors through collective learning.
+I am honored to have been selected for Boise State University’s competitive, NSF-funded Responsibility in Innovation and Scholarship Experience (RISE) traineeship. I enter the fellowship with an interdisciplinary foundation and practical experience examining responsible technology use empirically, collaboratively, and at the institutional level. Beginning in fall 2026, I will build on that preparation through coursework, stakeholder engagement, and university initiatives that connect AI innovation with human values and human flourishing.
 
 ## RISE traineeship {#rise}
 
-Beginning in fall 2026, I will participate as a graduate trainee in Boise State University's [Responsibility in Innovation and Scholarship Experience](https://www.boisestate.edu/rise/){target="_blank"} (RISE), an interdisciplinary research traineeship funded by the U.S. National Science Foundation. The program brings AI and computing researchers into conversation with humanities and social sciences faculty, industry professionals, and community partners to support responsible innovation and human flourishing.
+Boise State University's [Responsibility in Innovation and Scholarship Experience](https://www.boisestate.edu/rise/){target="_blank"} (RISE) program is supported by a nearly $2 million award from the U.S. National Science Foundation's Research Traineeship program under award no. 2509828.
 
-Through coursework, mentoring, cohort activities, stakeholder engagement, and professional development, I will develop how I study and communicate the social impacts of computing. The fellowship creates a setting where I can connect questions about technology with questions about human values, institutions, and collective life.
+RISE prepares AI graduate researchers to anticipate the potential social harms of emerging technologies, work with the people those technologies may affect, and adapt their work in response. The program brings researchers in computing, engineering, and other STEM disciplines together with faculty from the humanities and social sciences, industry professionals, and community stakeholders. Its goal is to bridge technical AI training with a broader understanding of social issues and human values so that AI research and innovation can contribute to human flourishing.
 
-This page will document that work as it develops. Because the traineeship has not yet begun, the sections below describe my current research direction and early planned activities. I will add specific projects, collaborations, and outputs as they take shape.
+The traineeship uses a team-science approach that includes coursework, mentoring, stakeholder workshops, roundtable discussions, professional development, and industry experiences. Twenty-five graduate students are expected to complete the full training experience, including fifteen funded trainees, while at least 200 additional Boise State students will participate in individual elements of the program. Through this structure, RISE seeks to strengthen responsible AI education, broaden participation in technology development, and prepare researchers for collaborative work across academia, government, and industry.
 
-## Research direction {#research}
+## RISE bootcamp {#bootcamp}
 
-### Computing and collective learning
+Before beginning my funded traineeship, I attended the two-day RISE Spring Bootcamp on January 7 and 8, 2026. The bootcamp introduced RISE applicants to Responsible Research and Innovation and provided opportunities to evaluate the societal impacts of AI-related work, learn how government and industry professionals approach ethical AI development, and connect with other researchers interested in responsible innovation.
 
-My early-stage research explores how computing and AI reshape the ways communities share ideas, distribute voice and influence, respond to disagreement, and correct errors through collective learning.
+As part of the bootcamp, I completed a researcher-values exercise examining how different priorities can shape responsible AI. I identified agency as an essential value because people should be able to understand, question, and meaningfully influence how AI affects their work, education, and communities. I also considered the tension between human-centered values and return on investment, particularly when short-term efficiency is prioritized over autonomy, integrity, or long-term social consequences. Finally, I identified tenacity as an easily overlooked value that can help people use AI without surrendering the persistence, judgment, and accountability necessary for learning and trustworthy work.
 
-I understand AI use as part of a larger human system rather than a private interaction between one person and one tool. Practices can travel through advisors, peers, classrooms, research teams, interfaces, and institutions. As they spread, they may change whose expertise is recognized, how evidence is evaluated, when work is delegated or verified, and how responsibility is assigned.
+The bootcamp culminated in an Individual Development Plan connecting my career, skill-development, and project goals. The plan will serve as a living guide for developing interdisciplinary relationships, strengthening my research and communication skills, and contributing to public conversations about responsible AI. When I return for the fall bootcamp, I will revisit these priorities, connect with the incoming RISE cohort, and refine the plan as my traineeship develops.
 
-The central question is not only whether AI makes research faster. I am interested in the conditions under which human-AI knowledge networks preserve meaningful disagreement, remain open to criticism, recognize error, and support trustworthy knowledge.
+## COMPUT 502 {#comput-502}
 
-### From broad questions to observable practices
-As the research becomes more specific, I expect to study what people actually do with AI: how they learn practices from others, decide what to delegate, verify an answer, disclose or conceal AI use, challenge a result, or revise their work. These observable practices can help connect broad ideas such as trust, responsibility, pluralism, and human flourishing to evidence about how research communities change over time.
+In fall 2026, I will take COMPUT 502: Societal Impacts of Emerging Technologies as part of the RISE curriculum. The course will provide a structured setting for examining how emerging technologies interact with human values, institutions, communities, and existing social conditions. I expect it to strengthen my ability to anticipate possible consequences, engage with stakeholder perspectives, and communicate about responsible innovation across disciplines. I will expand this section with specific topics and reflections as the course progresses.
 
 ## Social Impacts of Computing {#sioc}
 
-Boise State's [Social Impacts of Computing](https://www.boisestate.edu/computing/partnerships-collaborations/social-impacts-of-computing/){target="_blank"} (SioC) community examines the relationship between computing and society. It brings together people from different disciplines and sectors to consider how computing technologies affect human flourishing, how ethical frameworks can guide their use, and how transdisciplinary collaboration can address societal challenges.
+Boise State's [Social Impacts of Computing](https://www.boisestate.edu/computing/partnerships-collaborations/social-impacts-of-computing/){target="_blank"} (SioC) community explores and helps shape the evolving relationship between computing and society. Through workshops and transdisciplinary conversations, SioC brings together faculty, students, industry professionals, and community partners to examine how computing affects human flourishing and how competing values can inform responsible innovation.
 
-SioC closely aligns with my interest in computing as part of a social system. Its workshops and conversations create opportunities for people with different forms of knowledge to identify concerns, question assumptions, and shape more responsible approaches to computing. I expect to contribute to SioC activities as part of my RISE fellowship work.
+My involvement has developed across each of the three annual workshops. I attended the inaugural SioC workshop, helped plan and evaluate the second workshop in 2025, and will contribute to the third workshop in September 2026 as part of my RISE fellowship work. SioC conversations have directed my academic and professional interests. I am proud to have to opportunity to document what the community discusses, values, and learns.
 
-### Social Impacts of Computing Workshop 2026
+### SioC 2025 workshop analysis
 
-One early activity will be helping with the [Social Impacts of Computing Workshop 2026](https://www.boisestate.edu/computing/partnerships-collaborations/social-impacts-of-computing/social-impacts-of-computing-workshop-2026/){target="_blank"}, held September 17-18 at Boise State University. The two-day workshop will bring together students, faculty, researchers, educators, community members, and industry partners to exchange ideas and build partnerships around responsible and creative uses of AI and computing technologies.
+The 2025 workshop, *Emerging Technologies and Well-Being*, brought together 71 participants from education, business, government, healthcare, technology, finance, and other sectors. The program combined panels and demonstrations with participant-directed unconference discussions about extended reality, education, the environment, healthcare, and artificial intelligence.
 
-The workshop includes sessions on AI hesitance, AI across education, RISE and AI scholarship, and a Tech Kitchen for collaborative problem solving. The RISE session will connect graduate research with stakeholder engagement, AI risk mitigation, and human flourishing.
+Following the workshop, I analyzed registration and attendance data, pre-workshop responses, post-workshop feedback, and participant-generated notes from sticky notes and whiteboards. I used thematic analysis to identify recurring concerns and interests, and network analysis to examine how values appeared together in participants' descriptions of the social impacts of computing. Responsibility, transparency, and integrity formed the most central cluster of values, while the analysis also identified collaboration, curiosity, privacy, inclusivity, equity, and environmental stewardship as important parts of the community's conversation. I combined these findings with participation patterns and event feedback to develop recommendations for future SioC activities.
 
-## Fellowship activities and outputs {#activities}
+[Read the SioC 2025 event summary](assets/materials/SioC-2025-Event-Summary.pdf){target="_blank"} and [view the SioC 2025 value network analysis](assets/materials/SioC_2025_SNA.pdf){target="_blank"}.
 
-The fellowship is designed as a collection of connected learning and research experiences rather than a single project. My participation will include responsible research coursework, cohort and stakeholder meetings, workshops, mentoring, interdisciplinary collaboration, and professional development. I will use this section to add named activities and outputs as my role becomes more specific.
+### SioC 2026 workshop
 
-<!-- Add new entries at the top of this list using the same pattern: [title](link) — date, setting, and a brief description of your role or contribution. -->
+The [Social Impacts of Computing Workshop 2026](assets/materials/SioC_3_Workshop_Flyer_Final.pdf){target="_blank"} will take place September 17 and 18 at Boise State University. Its sessions will address AI hesitance, AI across education, RISE and AI scholarship, and collaborative problem solving through the Tech Kitchen. Each session will combine an introduction, a cross-sector panel, and audience-led roundtable discussions.
 
-- [**Social Impacts of Computing Workshop 2026**](https://www.boisestate.edu/computing/partnerships-collaborations/social-impacts-of-computing/social-impacts-of-computing-workshop-2026/){target="_blank"} — September 17-18, 2026, Boise State University. I will help support cross-sector conversations about responsible and creative uses of AI and computing technologies.
+My anticipated role centers on evaluating participant experiences, workshop conversations, and event outcomes. I expect to analyze participant feedback and records of the roundtable discussions, with qualitative thematic analysis serving as an important part of that work. Repeating elements of the 2025 evaluation will also create an opportunity to compare the second and third workshops and examine how participants' concerns, values, and priorities may have changed over the intervening year.
 
-The RISE program is supported by the U.S. National Science Foundation under award no. 2509828.
+## RISE community and professional development {#rise-community}
+
+Beginning in fall 2026, I will participate in RISE roundtable seminars, stakeholder meetings, mentoring, cohort activities, and professional-development events. These recurring experiences will provide opportunities to learn from researchers and community partners, contribute to interdisciplinary conversations, and develop relationships across fields and sectors. They will also create a space to reflect on how responsible innovation can be practiced collaboratively and adapted in response to stakeholder perspectives.
+
+
