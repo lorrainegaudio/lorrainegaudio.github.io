@@ -6,10 +6,6 @@ title: "Research & Collaborations"
 
 My current research examines how knowledge, values, and emerging AI practices move through research and learning communities. I am especially interested in how people learn, collaborate, trust, and make responsible decisions with emerging technologies.
 
-## RISE + SioC {#rise-sioc}
-
-This section will describe my RISE fellowship and my involvement with the Social Impacts of Computing community. It will connect my current and future work on emerging technologies, well-being, interdisciplinary learning, and responsible innovation.
-
 ## Human-Centered AI Communities {#i2hcai}
 
 This section will describe my work with the Idaho Institute for Human-Centered AI and related community-engaged research on AI in education, healthcare, and professional practice.

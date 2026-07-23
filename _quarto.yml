@@ -15,6 +15,8 @@ website:
         href: index.qmd
       - text: "Research & Collaborations"
         href: research.qmd
+      - text: "RISE Fellowship"
+        href: rise.qmd
       - text: "Teaching"
         href: teaching.qmd
       - text: "CV & Selected Work"

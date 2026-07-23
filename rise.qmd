@@ -1,0 +1,48 @@
+---
+title: "RISE Fellowship"
+---
+
+My RISE fellowship work is grounded in the idea that AI research should be shaped by the people, values, and social systems it affects. I am especially interested in how research communities share ideas, distribute voice and influence, respond to disagreement, and correct errors through collective learning.
+
+## RISE traineeship {#rise}
+
+Beginning in fall 2026, I will participate as a graduate trainee in Boise State University's [Responsibility in Innovation and Scholarship Experience](https://www.boisestate.edu/rise/){target="_blank"} (RISE), an interdisciplinary research traineeship funded by the U.S. National Science Foundation. The program brings AI and computing researchers into conversation with humanities and social sciences faculty, industry professionals, and community partners to support responsible innovation and human flourishing.
+
+Through coursework, mentoring, cohort activities, stakeholder engagement, and professional development, I will develop how I study and communicate the social impacts of computing. The fellowship creates a setting where I can connect questions about technology with questions about human values, institutions, and collective life.
+
+This page will document that work as it develops. Because the traineeship has not yet begun, the sections below describe my current research direction and early planned activities. I will add specific projects, collaborations, and outputs as they take shape.
+
+## Research direction {#research}
+
+### Computing and collective learning
+
+My early-stage research explores how computing and AI reshape the ways communities share ideas, distribute voice and influence, respond to disagreement, and correct errors through collective learning.
+
+I understand AI use as part of a larger human system rather than a private interaction between one person and one tool. Practices can travel through advisors, peers, classrooms, research teams, interfaces, and institutions. As they spread, they may change whose expertise is recognized, how evidence is evaluated, when work is delegated or verified, and how responsibility is assigned.
+
+The central question is not only whether AI makes research faster. I am interested in the conditions under which human-AI knowledge networks preserve meaningful disagreement, remain open to criticism, recognize error, and support trustworthy knowledge.
+
+### From broad questions to observable practices
+As the research becomes more specific, I expect to study what people actually do with AI: how they learn practices from others, decide what to delegate, verify an answer, disclose or conceal AI use, challenge a result, or revise their work. These observable practices can help connect broad ideas such as trust, responsibility, pluralism, and human flourishing to evidence about how research communities change over time.
+
+## Social Impacts of Computing {#sioc}
+
+Boise State's [Social Impacts of Computing](https://www.boisestate.edu/computing/partnerships-collaborations/social-impacts-of-computing/){target="_blank"} (SioC) community examines the relationship between computing and society. It brings together people from different disciplines and sectors to consider how computing technologies affect human flourishing, how ethical frameworks can guide their use, and how transdisciplinary collaboration can address societal challenges.
+
+SioC closely aligns with my interest in computing as part of a social system. Its workshops and conversations create opportunities for people with different forms of knowledge to identify concerns, question assumptions, and shape more responsible approaches to computing. I expect to contribute to SioC activities as part of my RISE fellowship work.
+
+### Social Impacts of Computing Workshop 2026
+
+One early activity will be helping with the [Social Impacts of Computing Workshop 2026](https://www.boisestate.edu/computing/partnerships-collaborations/social-impacts-of-computing/social-impacts-of-computing-workshop-2026/){target="_blank"}, held September 17-18 at Boise State University. The two-day workshop will bring together students, faculty, researchers, educators, community members, and industry partners to exchange ideas and build partnerships around responsible and creative uses of AI and computing technologies.
+
+The workshop includes sessions on AI hesitance, AI across education, RISE and AI scholarship, and a Tech Kitchen for collaborative problem solving. The RISE session will connect graduate research with stakeholder engagement, AI risk mitigation, and human flourishing.
+
+## Fellowship activities and outputs {#activities}
+
+The fellowship is designed as a collection of connected learning and research experiences rather than a single project. My participation will include responsible research coursework, cohort and stakeholder meetings, workshops, mentoring, interdisciplinary collaboration, and professional development. I will use this section to add named activities and outputs as my role becomes more specific.
+
+<!-- Add new entries at the top of this list using the same pattern: [title](link) — date, setting, and a brief description of your role or contribution. -->
+
+- [**Social Impacts of Computing Workshop 2026**](https://www.boisestate.edu/computing/partnerships-collaborations/social-impacts-of-computing/social-impacts-of-computing-workshop-2026/){target="_blank"} — September 17-18, 2026, Boise State University. I will help support cross-sector conversations about responsible and creative uses of AI and computing technologies.
+
+The RISE program is supported by the U.S. National Science Foundation under award no. 2509828.
