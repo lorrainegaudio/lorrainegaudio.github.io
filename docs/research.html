@@ -130,6 +130,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul class="collapse">
   <li><a href="#current-direction" id="toc-current-direction" class="nav-link active" data-scroll-target="#current-direction">Current research direction</a></li>
+  <li><a href="#ai-institute-study" id="toc-ai-institute-study" class="nav-link" data-scroll-target="#ai-institute-study">Evaluating the 2025 AI Institute for Teaching and Learning</a></li>
   <li><a href="#i2hcai" id="toc-i2hcai" class="nav-link" data-scroll-target="#i2hcai">Human-Centered AI Communities</a></li>
   <li><a href="#airoe" id="toc-airoe" class="nav-link" data-scroll-target="#airoe">AIROE as previous collaboration</a></li>
   <li><a href="#masters-thesis" id="toc-masters-thesis" class="nav-link" data-scroll-target="#masters-thesis">Master’s thesis foundation</a></li>
@@ -161,6 +162,28 @@ ul.task-list li input[type="checkbox"] {
 <section id="current-direction" class="level2">
 <h2 class="anchored" data-anchor-id="current-direction">Current research direction</h2>
 <p>My current research examines how knowledge, values, and emerging AI practices move through research and learning communities. I am especially interested in how people learn, collaborate, trust, and make responsible decisions with emerging technologies.</p>
+</section>
+<section id="ai-institute-study" class="level2">
+<h2 class="anchored" data-anchor-id="ai-institute-study">Evaluating the 2025 AI Institute for Teaching and Learning</h2>
+<p>The inaugural 2025 AI Institute for Teaching and Learning was a three-day, hybrid faculty-development program hosted by Boise State. The College of Arts &amp; Sciences, CI+D, and eCampus supported the event, which was led by the Launch Director of the School of the Digital Future. It created structured time for 61 faculty across disciplines and levels of AI experience to explore and critically examine generative AI in teaching. Alongside the institute, our three-person research team conducted an IRB-approved, mixed-methods proof-of-concept study examining faculty AI competency development, participant experiences, and priorities for future program design.</p>
+<section id="my-role-and-contribution" class="level3">
+<h3 class="anchored" data-anchor-id="my-role-and-contribution">My role and contribution</h3>
+<p>Kelly Arispe, who conceived and led the institute, invited me to join the research after we met at a Social Impacts of Computing hangout. I asked Jason Blomquist to join as my research advisor; he served as principal investigator for the IRB study. Jason and I developed the research plan and a pre- and post-institute survey informed by the UNESCO AI Competency Framework for Teachers, while Kelly led the institute and helped guide the team’s interpretation of the study.</p>
+<p>My work extended across the evaluation process. Before the institute, I analyzed registration responses to understand which disciplines and AI-experience levels were represented and what participants hoped to learn, then shared those patterns with the planning team. During the institute, I recorded observations of the learning environment and faculty interactions. Afterward, I analyzed pre- and post-survey responses and focus-group data using quantitative and thematic approaches. I documented the analysis in an extensive internal report and contributed to a collaborative white paper.</p>
+</section>
+<section id="analytical-reflection" class="level3">
+<h3 class="anchored" data-anchor-id="analytical-reflection">Analytical reflection</h3>
+<p>The most consequential decision I made was not to treat the survey scores as automatically meaningful. Because we had created a new instrument, I wanted to understand whether its items provided defensible evidence about the competencies we intended to measure before interpreting changes in participants’ responses. Psychometric analysis was new to me, so I worked through methodological texts, online references, and AI-assisted explanations of unfamiliar statistical concepts, consulting with Jason and returning to the underlying calculations as I made analytical decisions.</p>
+<p>I examined reliability, dimensionality, item redundancy, and pre/post comparability. I then used that evidence to form more defensible composite measures and guide subsequent statistical analysis. The modest, self-selected sample and exploratory design limited what the study could establish, but those constraints became part of the lesson: careful analysis requires understanding not only what a method produces, but also what the available data can support. This experience strengthened my interest in data analysis and changed how I approach survey research, measurement, and claims about emerging technologies in educational settings.</p>
+<p>The study informed an AAC&amp;U 2026 presentation that I helped Kelly and Jason develop; Jason delivered the presentation at the conference. It also contributed to grant-development conversations that later grew into a broader collaboration focused on human-centered AI communities.</p>
+</section>
+<section id="selected-evidence" class="level3">
+<h3 class="anchored" data-anchor-id="selected-evidence">Selected evidence</h3>
+<ul>
+<li><a href="assets/materials/Evaluating_AI_Competency_Portfolio.pdf" target="_blank">Evaluating AI Competency Development in Higher Education: A Multi-Method Survey Report</a> — My exploratory psychometric evaluation of the AI Competency instrument. The report documents my mathematical reasoning, analytical decisions, unsuccessful modeling routes, and the limitations of a small proof-of-concept sample.</li>
+<li><a href="assets/materials/AAC&amp;U_CLASS_26.pdf" target="_blank">Deshaming AI in Education: Practicing Courageous Care in Faculty AI Development</a> — AAC&amp;U 2026 presentation developed with Kelly Arispe and Jason Blomquist and delivered by Jason.</li>
+</ul>
+</section>
 </section>
 <section id="i2hcai" class="level2">
 <h2 class="anchored" data-anchor-id="i2hcai">Human-Centered AI Communities</h2>
@@ -252,7 +275,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/lorrainegaudio\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
