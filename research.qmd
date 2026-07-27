@@ -1,44 +1,19 @@
 ---
-title: "Research & Collaborations"
+title: "Research"
 ---
 
 ## Current research direction {#current-direction}
 
 My current research examines how knowledge, values, and emerging AI practices move through research and learning communities. I am especially interested in how people learn, collaborate, trust, and make responsible decisions with emerging technologies.
 
-## Evaluating the 2025 AI Institute for Teaching and Learning {#ai-institute-study}
+## Emerging PhD research {#emerging-phd-research}
 
-The inaugural 2025 AI Institute for Teaching and Learning was a three-day, hybrid faculty-development program hosted by Boise State. The College of Arts & Sciences, CI+D, and eCampus supported the event, which was led by the Launch Director of the School of the Digital Future. It created structured time for 61 faculty across disciplines and levels of AI experience to explore and critically examine generative AI in teaching. Alongside the institute, our three-person research team conducted an IRB-approved, mixed-methods proof-of-concept study examining faculty AI competency development, participant experiences, and priorities for future program design.
+My PhD research is still taking shape. I am interested in extending my earlier interview and network research to examine how researchers' values and experiences shape AI use, how emerging practices spread through research communities, and how those patterns affect interdisciplinary collaboration. The unpublished AIROE interviews may provide a foundation for expanding this work while I continue developing questions about research integrity, institutional change, and responsible decision-making with AI.
 
-### My role and contribution
-
-Kelly Arispe, who conceived and led the institute, invited me to join the research after we met at a Social Impacts of Computing hangout. I asked Jason Blomquist to join as my research advisor; he served as principal investigator for the IRB study. Jason and I developed the research plan and a pre- and post-institute survey informed by the UNESCO AI Competency Framework for Teachers, while Kelly led the institute and helped guide the team's interpretation of the study.
-
-My work extended across the evaluation process. Before the institute, I analyzed registration responses to understand which disciplines and AI-experience levels were represented and what participants hoped to learn, then shared those patterns with the planning team. During the institute, I recorded observations of the learning environment and faculty interactions. Afterward, I analyzed pre- and post-survey responses and focus-group data using quantitative and thematic approaches. I documented the analysis in an extensive internal report and contributed to a collaborative white paper.
-
-### Analytical reflection
-
-The most consequential decision I made was not to treat the survey scores as automatically meaningful. Because we had created a new instrument, I wanted to understand whether its items provided defensible evidence about the competencies we intended to measure before interpreting changes in participants' responses. Psychometric analysis was new to me, so I worked through methodological texts, online references, and AI-assisted explanations of unfamiliar statistical concepts, consulting with Jason and returning to the underlying calculations as I made analytical decisions.
-
-I examined reliability, dimensionality, item redundancy, and pre/post comparability. I then used that evidence to form more defensible composite measures and guide subsequent statistical analysis. The modest, self-selected sample and exploratory design limited what the study could establish, but those constraints became part of the lesson: careful analysis requires understanding not only what a method produces, but also what the available data can support. This experience strengthened my interest in data analysis and changed how I approach survey research, measurement, and claims about emerging technologies in educational settings.
-
-The study informed an AAC&U 2026 presentation that I helped Kelly and Jason develop; Jason delivered the presentation at the conference. It also contributed to grant-development conversations that later grew into a broader collaboration focused on human-centered AI communities.
-
-### Selected evidence
-
-- [Evaluating AI Competency Development in Higher Education: A Multi-Method Survey Report](assets/materials/Evaluating_AI_Competency_Portfolio.pdf){target="_blank"} — My exploratory psychometric evaluation of the AI Competency instrument. The report documents my mathematical reasoning, analytical decisions, unsuccessful modeling routes, and the limitations of a small proof-of-concept sample.
-- [Deshaming AI in Education: Practicing Courageous Care in Faculty AI Development](assets/materials/AAC&U_CLASS_26.pdf){target="_blank"} — AAC&U 2026 presentation developed with Kelly Arispe and Jason Blomquist and delivered by Jason.
-
-## Human-Centered AI Communities {#i2hcai}
-
-This section will describe my work with the Idaho Institute for Human-Centered AI and related community-engaged research on AI in education, healthcare, and professional practice.
-
-## AIROE as previous collaboration {#airoe}
-
-This section will describe AI in Research Optimized Ethically as a previous collaboration that helped shape my interest in generative AI, research integrity, institutional change, and interdisciplinary values.
+Several collaborations have shaped this direction. [Trace the progression through my human-centered AI collaborations](human-centered-ai-collaborations.qmd), from AIROE and the AI Institute to the developing Idaho Institute for Human-Centered AI.
 
 ## Master’s thesis foundation {#masters-thesis}
 
 My master’s thesis used social network analysis to examine interdisciplinary collaboration in Boise State’s Grand Challenges initiative. This project helped shape my current interest in knowledge networks, collaboration structures, and the conditions that support or limit interdisciplinary research.
 
-Link to thesis will go here.
+[Read my master’s thesis](https://doi.org/10.18122/td.2143.boisestate){target="_blank"}.

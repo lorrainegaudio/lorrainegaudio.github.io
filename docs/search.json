@@ -63,6 +63,34 @@
     "text": "RISE community and professional development\nBeginning in fall 2026, I will participate in RISE roundtable seminars, stakeholder meetings, mentoring, cohort activities, and professional-development events. These recurring experiences will provide opportunities to learn from researchers and community partners, contribute to interdisciplinary conversations, and develop relationships across fields and sectors. They will also create a space to reflect on how responsible innovation can be practiced collaboratively and adapted in response to stakeholder perspectives."
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My current research examines how knowledge, values, and emerging AI practices move through research and learning communities. I am especially interested in how people learn, collaborate, trust, and make responsible decisions with emerging technologies."
+  },
+  {
+    "objectID": "research.html#current-direction",
+    "href": "research.html#current-direction",
+    "title": "Research",
+    "section": "",
+    "text": "My current research examines how knowledge, values, and emerging AI practices move through research and learning communities. I am especially interested in how people learn, collaborate, trust, and make responsible decisions with emerging technologies."
+  },
+  {
+    "objectID": "research.html#emerging-phd-research",
+    "href": "research.html#emerging-phd-research",
+    "title": "Research",
+    "section": "Emerging PhD research",
+    "text": "Emerging PhD research\nMy PhD research is still taking shape. I am interested in extending my earlier interview and network research to examine how researchers’ values and experiences shape AI use, how emerging practices spread through research communities, and how those patterns affect interdisciplinary collaboration. The unpublished AIROE interviews may provide a foundation for expanding this work while I continue developing questions about research integrity, institutional change, and responsible decision-making with AI.\nSeveral collaborations have shaped this direction. Trace the progression through my human-centered AI collaborations, from AIROE and the AI Institute to the developing Idaho Institute for Human-Centered AI."
+  },
+  {
+    "objectID": "research.html#masters-thesis",
+    "href": "research.html#masters-thesis",
+    "title": "Research",
+    "section": "Master’s thesis foundation",
+    "text": "Master’s thesis foundation\nMy master’s thesis used social network analysis to examine interdisciplinary collaboration in Boise State’s Grand Challenges initiative. This project helped shape my current interest in knowledge networks, collaboration structures, and the conditions that support or limit interdisciplinary research.\nRead my master’s thesis."
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -105,46 +133,32 @@
     "text": "Teaching certificates\nMy course development has been supported by continuing work in online teaching, instructional design, accessibility, and reflective course revision.\n\neCampus Center Intermediate Online Teaching, Boise State University, February 2026\neCampus Center Basic Online Teaching, Boise State University, November 2024\nTeaching and Learning in Higher Education, Boise State University, August 2023"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research & Collaborations",
+    "objectID": "human-centered-ai-collaborations.html",
+    "href": "human-centered-ai-collaborations.html",
+    "title": "Human-Centered AI Collaborations",
     "section": "",
-    "text": "My current research examines how knowledge, values, and emerging AI practices move through research and learning communities. I am especially interested in how people learn, collaborate, trust, and make responsible decisions with emerging technologies."
+    "text": "These collaborations trace how my interest in human-centered and responsible AI developed through practice. Each grew from relationships and questions that emerged through earlier work: AIROE developed from my master’s research and university conversations about ethical AI use; the AI Institute created an opportunity to study how faculty learn with and about AI; and the Idaho Institute for Human-Centered AI extends that progression into a broader collaboration. Together, they have shaped my research direction around knowledge, values, collaboration, and responsible engagement with emerging technologies."
   },
   {
-    "objectID": "research.html#current-direction",
-    "href": "research.html#current-direction",
-    "title": "Research & Collaborations",
-    "section": "",
-    "text": "My current research examines how knowledge, values, and emerging AI practices move through research and learning communities. I am especially interested in how people learn, collaborate, trust, and make responsible decisions with emerging technologies."
+    "objectID": "human-centered-ai-collaborations.html#airoe",
+    "href": "human-centered-ai-collaborations.html#airoe",
+    "title": "Human-Centered AI Collaborations",
+    "section": "AI in Research Optimized Ethically (AIROE)",
+    "text": "AI in Research Optimized Ethically (AIROE)\nAIROE was a formative collaboration that helped redirect my research interests after I completed my master’s degree. During my thesis work, I used generative AI to support research and writing and to help me learn the R programming needed for my analysis. The experience expanded what I could learn and accomplish, while growing campus conversations about AI raised difficult questions about plagiarism, cheating, research integrity, and learning.\nI joined those conversations by presenting AI Prompt Engineering for Beginners: Graduate Researchers at Boise State’s Graduate Student Open House and participating in a panel on effective uses of AI for thesis and dissertation preparation. That work led to further presentations for faculty and other audiences. At first, I approached these conversations largely through my own experience of AI as a valuable learning and research tool. The inaugural Social Impacts of Computing workshop broadened that view. Hearing how people across roles and disciplines were experiencing AI helped me understand responsible AI use as a wicked problem: complex, fast-changing, and shaped by values and conditions that no one perspective can fully represent.\nFollowing that workshop, Ellie Dworak became an important mentor and collaborator. We developed a white paper, identified possible funding opportunities, invited faculty with complementary expertise to join us, and built the AI in Research Optimized Ethically research team. Although my staff position limited the formal role I could hold in the NSF application, I contributed substantially to team formation, project design, planning, and proposal writing. I helped write an internal pitch to Boise State’s Division of Research and Economic Development and the team’s NSF Ethical and Responsible Research proposal. The NSF proposal was not funded, but writing it was my first major grant-development experience and helped clarify the questions I wanted to pursue.\nDRED support allowed the team to conduct a pilot study with undergraduate research assistants. Faculty participated in semi-structured interviews about their collaborations, their uses of generative AI, and the ways AI was affecting their research practices, values, and concerns. I transcribed and thematically analyzed the interviews and helped disseminate the findings through presentations, including Ethics in AI and Bridging Ethical Divides: Investigating Disciplinary Values in the Adoption of Generative AI in Research.\nOne of the most revealing patterns was that researchers could invoke the same value while reaching opposing conclusions about AI. A researcher might value precision and therefore use AI, while another might value precision and therefore avoid it. That tension showed me that identifying values is only a starting point; responsible decisions also depend on how people interpret those values within particular disciplines, tasks, relationships, and risks. The interviews have not been published, but the pilot work established a foundation I may extend through future PhD research. More broadly, AIROE helped turn my practical interest in AI into a research direction centered on knowledge networks, interdisciplinary collaboration, research integrity, and human judgment."
   },
   {
-    "objectID": "research.html#ai-institute-study",
-    "href": "research.html#ai-institute-study",
-    "title": "Research & Collaborations",
+    "objectID": "human-centered-ai-collaborations.html#ai-institute-study",
+    "href": "human-centered-ai-collaborations.html#ai-institute-study",
+    "title": "Human-Centered AI Collaborations",
     "section": "Evaluating the 2025 AI Institute for Teaching and Learning",
     "text": "Evaluating the 2025 AI Institute for Teaching and Learning\nThe inaugural 2025 AI Institute for Teaching and Learning was a three-day, hybrid faculty-development program hosted by Boise State. The College of Arts & Sciences, CI+D, and eCampus supported the event, which was led by the Launch Director of the School of the Digital Future. It created structured time for 61 faculty across disciplines and levels of AI experience to explore and critically examine generative AI in teaching. Alongside the institute, our three-person research team conducted an IRB-approved, mixed-methods proof-of-concept study examining faculty AI competency development, participant experiences, and priorities for future program design.\n\nMy role and contribution\nKelly Arispe, who conceived and led the institute, invited me to join the research after we met at a Social Impacts of Computing hangout. I asked Jason Blomquist to join as my research advisor; he served as principal investigator for the IRB study. Jason and I developed the research plan and a pre- and post-institute survey informed by the UNESCO AI Competency Framework for Teachers, while Kelly led the institute and helped guide the team’s interpretation of the study.\nMy work extended across the evaluation process. Before the institute, I analyzed registration responses to understand which disciplines and AI-experience levels were represented and what participants hoped to learn, then shared those patterns with the planning team. During the institute, I recorded observations of the learning environment and faculty interactions. Afterward, I analyzed pre- and post-survey responses and focus-group data using quantitative and thematic approaches. I documented the analysis in an extensive internal report and contributed to a collaborative white paper.\n\n\nAnalytical reflection\nThe most consequential decision I made was not to treat the survey scores as automatically meaningful. Because we had created a new instrument, I wanted to understand whether its items provided defensible evidence about the competencies we intended to measure before interpreting changes in participants’ responses. Psychometric analysis was new to me, so I worked through methodological texts, online references, and AI-assisted explanations of unfamiliar statistical concepts, consulting with Jason and returning to the underlying calculations as I made analytical decisions.\nI examined reliability, dimensionality, item redundancy, and pre/post comparability. I then used that evidence to form more defensible composite measures and guide subsequent statistical analysis. The modest, self-selected sample and exploratory design limited what the study could establish, but those constraints became part of the lesson: careful analysis requires understanding not only what a method produces, but also what the available data can support. This experience strengthened my interest in data analysis and changed how I approach survey research, measurement, and claims about emerging technologies in educational settings.\nThe study informed an AAC&U 2026 presentation that I helped Kelly and Jason develop; Jason delivered the presentation at the conference. It also contributed to grant-development conversations that later grew into a broader collaboration focused on human-centered AI communities.\n\n\nSelected evidence\n\nEvaluating AI Competency Development in Higher Education: A Multi-Method Survey Report — My exploratory psychometric evaluation of the AI Competency instrument. The report documents my mathematical reasoning, analytical decisions, unsuccessful modeling routes, and the limitations of a small proof-of-concept sample.\nDeshaming AI in Education: Practicing Courageous Care in Faculty AI Development — AAC&U 2026 presentation developed with Kelly Arispe and Jason Blomquist and delivered by Jason."
   },
   {
-    "objectID": "research.html#i2hcai",
-    "href": "research.html#i2hcai",
-    "title": "Research & Collaborations",
-    "section": "Human-Centered AI Communities",
-    "text": "Human-Centered AI Communities\nThis section will describe my work with the Idaho Institute for Human-Centered AI and related community-engaged research on AI in education, healthcare, and professional practice."
-  },
-  {
-    "objectID": "research.html#airoe",
-    "href": "research.html#airoe",
-    "title": "Research & Collaborations",
-    "section": "AIROE as previous collaboration",
-    "text": "AIROE as previous collaboration\nThis section will describe AI in Research Optimized Ethically as a previous collaboration that helped shape my interest in generative AI, research integrity, institutional change, and interdisciplinary values."
-  },
-  {
-    "objectID": "research.html#masters-thesis",
-    "href": "research.html#masters-thesis",
-    "title": "Research & Collaborations",
-    "section": "Master’s thesis foundation",
-    "text": "Master’s thesis foundation\nMy master’s thesis used social network analysis to examine interdisciplinary collaboration in Boise State’s Grand Challenges initiative. This project helped shape my current interest in knowledge networks, collaboration structures, and the conditions that support or limit interdisciplinary research.\nLink to thesis will go here."
+    "objectID": "human-centered-ai-collaborations.html#i2hcai",
+    "href": "human-centered-ai-collaborations.html#i2hcai",
+    "title": "Human-Centered AI Collaborations",
+    "section": "Idaho Institute for Human-Centered AI (I²HCAI)",
+    "text": "Idaho Institute for Human-Centered AI (I²HCAI)\nThis section will describe my work with the Idaho Institute for Human-Centered AI and related community-engaged research on AI in education, healthcare, and professional practice."
   },
   {
     "objectID": "index.html",
@@ -179,6 +193,6 @@
     "href": "index.html#research-nodes",
     "title": "Lorraine Gaudio",
     "section": "Research nodes",
-    "text": "Research nodes\n\n\nKnowledge Networks & Responsible AI\nMy current research direction focuses on how knowledge, values, and AI practices move through research and learning communities.\nExplore direction\n\n\nSocial Impacts of Emerging Technologies\nRISE and SioC connect my work to broader questions about emerging technologies, well-being, and interdisciplinary collaboration.\nView work\n\n\nHuman-Centered AI Communities\nI contribute to projects that examine how AI is shaping practice in education, healthcare, and community settings.\nView collaboration\n\n\nTeaching, Learning, and AI\nMy teaching work explores AI-era learning, R programming, student agency, and responsible tool use.\nView teaching\n\n\nNetwork Analysis & Collaboration\nMy master’s thesis used social network analysis to study interdisciplinary collaboration at Boise State.\nView foundation"
+    "text": "Research nodes\n\n\nKnowledge Networks & Responsible AI\nMy current research direction focuses on how knowledge, values, and AI practices move through research and learning communities.\nExplore direction\n\n\nSocial Impacts of Emerging Technologies\nRISE and SioC connect my work to broader questions about emerging technologies, well-being, and interdisciplinary collaboration.\nView work\n\n\nHuman-Centered AI Collaborations\nI contribute to projects that examine how AI is shaping practice in education, healthcare, and community settings.\nView collaborations\n\n\nTeaching, Learning, and AI\nMy teaching work explores AI-era learning, R programming, student agency, and responsible tool use.\nView teaching\n\n\nNetwork Analysis & Collaboration\nMy master’s thesis used social network analysis to study interdisciplinary collaboration at Boise State.\nView foundation"
   }
 ]

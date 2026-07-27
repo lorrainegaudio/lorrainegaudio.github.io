@@ -70,11 +70,11 @@ RISE and SioC connect my work to broader questions about emerging technologies, 
 :::
 
 ::: {.node-card .node-three}
-### Human-Centered AI Communities
+### Human-Centered AI Collaborations
 
 I contribute to projects that examine how AI is shaping practice in education, healthcare, and community settings.
 
-[View collaboration](research.qmd#i2hcai)
+[View collaborations](human-centered-ai-collaborations.qmd)
 :::
 
 ::: {.node-card .node-four}

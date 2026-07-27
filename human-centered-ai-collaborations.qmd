@@ -1,0 +1,44 @@
+---
+title: "Human-Centered AI Collaborations"
+---
+
+These collaborations trace how my interest in human-centered and responsible AI developed through practice. Each grew from relationships and questions that emerged through earlier work: AIROE developed from my master's research and university conversations about ethical AI use; the AI Institute created an opportunity to study how faculty learn with and about AI; and the Idaho Institute for Human-Centered AI extends that progression into a broader collaboration. Together, they have shaped my research direction around knowledge, values, collaboration, and responsible engagement with emerging technologies.
+
+## AI in Research Optimized Ethically (AIROE) {#airoe}
+
+AIROE was a formative collaboration that helped redirect my research interests after I completed my master's degree. During my thesis work, I used generative AI to support research and writing and to help me learn the R programming needed for my analysis. The experience expanded what I could learn and accomplish, while growing campus conversations about AI raised difficult questions about plagiarism, cheating, research integrity, and learning.
+
+I joined those conversations by presenting *AI Prompt Engineering for Beginners: Graduate Researchers* at Boise State's Graduate Student Open House and participating in a panel on effective uses of AI for thesis and dissertation preparation. That work led to further presentations for faculty and other audiences. At first, I approached these conversations largely through my own experience of AI as a valuable learning and research tool. The inaugural Social Impacts of Computing workshop broadened that view. Hearing how people across roles and disciplines were experiencing AI helped me understand responsible AI use as a wicked problem: complex, fast-changing, and shaped by values and conditions that no one perspective can fully represent.
+
+Following that workshop, Ellie Dworak became an important mentor and collaborator. We developed a white paper, identified possible funding opportunities, invited faculty with complementary expertise to join us, and built the AI in Research Optimized Ethically research team. Although my staff position limited the formal role I could hold in the NSF application, I contributed substantially to team formation, project design, planning, and proposal writing. I helped write an internal pitch to Boise State's Division of Research and Economic Development and the team's NSF Ethical and Responsible Research proposal. The NSF proposal was not funded, but writing it was my first major grant-development experience and helped clarify the questions I wanted to pursue.
+
+DRED support allowed the team to conduct a pilot study with undergraduate research assistants. Faculty participated in semi-structured interviews about their collaborations, their uses of generative AI, and the ways AI was affecting their research practices, values, and concerns. I transcribed and thematically analyzed the interviews and helped disseminate the findings through presentations, including *Ethics in AI* and *Bridging Ethical Divides: Investigating Disciplinary Values in the Adoption of Generative AI in Research*.
+
+One of the most revealing patterns was that researchers could invoke the same value while reaching opposing conclusions about AI. A researcher might value precision and therefore use AI, while another might value precision and therefore avoid it. That tension showed me that identifying values is only a starting point; responsible decisions also depend on how people interpret those values within particular disciplines, tasks, relationships, and risks. The interviews have not been published, but the pilot work established a foundation I may extend through future PhD research. More broadly, AIROE helped turn my practical interest in AI into a research direction centered on knowledge networks, interdisciplinary collaboration, research integrity, and human judgment.
+
+## Evaluating the 2025 AI Institute for Teaching and Learning {#ai-institute-study}
+
+The inaugural 2025 AI Institute for Teaching and Learning was a three-day, hybrid faculty-development program hosted by Boise State. The College of Arts & Sciences, CI+D, and eCampus supported the event, which was led by the Launch Director of the School of the Digital Future. It created structured time for 61 faculty across disciplines and levels of AI experience to explore and critically examine generative AI in teaching. Alongside the institute, our three-person research team conducted an IRB-approved, mixed-methods proof-of-concept study examining faculty AI competency development, participant experiences, and priorities for future program design.
+
+### My role and contribution
+
+Kelly Arispe, who conceived and led the institute, invited me to join the research after we met at a Social Impacts of Computing hangout. I asked Jason Blomquist to join as my research advisor; he served as principal investigator for the IRB study. Jason and I developed the research plan and a pre- and post-institute survey informed by the UNESCO AI Competency Framework for Teachers, while Kelly led the institute and helped guide the team's interpretation of the study.
+
+My work extended across the evaluation process. Before the institute, I analyzed registration responses to understand which disciplines and AI-experience levels were represented and what participants hoped to learn, then shared those patterns with the planning team. During the institute, I recorded observations of the learning environment and faculty interactions. Afterward, I analyzed pre- and post-survey responses and focus-group data using quantitative and thematic approaches. I documented the analysis in an extensive internal report and contributed to a collaborative white paper.
+
+### Analytical reflection
+
+The most consequential decision I made was not to treat the survey scores as automatically meaningful. Because we had created a new instrument, I wanted to understand whether its items provided defensible evidence about the competencies we intended to measure before interpreting changes in participants' responses. Psychometric analysis was new to me, so I worked through methodological texts, online references, and AI-assisted explanations of unfamiliar statistical concepts, consulting with Jason and returning to the underlying calculations as I made analytical decisions.
+
+I examined reliability, dimensionality, item redundancy, and pre/post comparability. I then used that evidence to form more defensible composite measures and guide subsequent statistical analysis. The modest, self-selected sample and exploratory design limited what the study could establish, but those constraints became part of the lesson: careful analysis requires understanding not only what a method produces, but also what the available data can support. This experience strengthened my interest in data analysis and changed how I approach survey research, measurement, and claims about emerging technologies in educational settings.
+
+The study informed an AAC&U 2026 presentation that I helped Kelly and Jason develop; Jason delivered the presentation at the conference. It also contributed to grant-development conversations that later grew into a broader collaboration focused on human-centered AI communities.
+
+### Selected evidence
+
+- [Evaluating AI Competency Development in Higher Education: A Multi-Method Survey Report](assets/materials/Evaluating_AI_Competency_Portfolio.pdf){target="_blank"} — My exploratory psychometric evaluation of the AI Competency instrument. The report documents my mathematical reasoning, analytical decisions, unsuccessful modeling routes, and the limitations of a small proof-of-concept sample.
+- [Deshaming AI in Education: Practicing Courageous Care in Faculty AI Development](assets/materials/AAC&U_CLASS_26.pdf){target="_blank"} — AAC&U 2026 presentation developed with Kelly Arispe and Jason Blomquist and delivered by Jason.
+
+## Idaho Institute for Human-Centered AI (I²HCAI) {#i2hcai}
+
+This section will describe my work with the Idaho Institute for Human-Centered AI and related community-engaged research on AI in education, healthcare, and professional practice.

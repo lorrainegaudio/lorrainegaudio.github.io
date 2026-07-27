@@ -13,8 +13,10 @@ website:
     right:
       - text: "Home"
         href: index.qmd
-      - text: "Research & Collaborations"
+      - text: "Research"
         href: research.qmd
+      - text: "Human-Centered AI Collaborations"
+        href: human-centered-ai-collaborations.qmd
       - text: "RISE Fellowship"
         href: rise.qmd
       - text: "Teaching"
