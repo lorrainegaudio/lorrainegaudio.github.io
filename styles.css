@@ -40,8 +40,8 @@ body {
   inset: 0;
   z-index: 0;
   pointer-events: none;
-  opacity: 0.72;
-  background: url("assets/images/hero-network.svg") center / cover no-repeat;
+  opacity: 0.68;
+  background: url("assets/images/hero-network.svg") center top / cover no-repeat;
 }
 
 .home-hero-inner {
@@ -257,8 +257,8 @@ main.content {
 
 @media (max-width: 767.98px) {
   .home-hero::after {
-    opacity: 0.5;
-    background-position: 52% center;
+    opacity: 0.45;
+    background-position: 52% top;
   }
 
   .home-hero-inner {
