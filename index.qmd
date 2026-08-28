@@ -1,95 +1,112 @@
-:::: {.grid .align-items-center}
+---
+title: ""
+toc: false
+page-layout: full
+---
 
-::: {.g-col-12 .g-col-md-7}
-## Lorraine Gaudio
+::: {.home-hero}
 
-Hello World!
+:::: {.grid .align-items-center .home-hero-inner}
 
-After 20-plus years of grooming dogs, I did a 180 and went back to school. I earned a master’s degree in anthropology and am now pursuing a PhD in computing with a focus on knowledge networks, responsible AI, and interdisciplinary collaboration. I am also a RISE Fellow studying how emerging technologies shape research, learning, and human flourishing.
+::: {.g-col-12 .g-col-md-7 .hero-copy}
+
+# Lorraine Gaudio
+
+**PhD student in Computing at Boise State University · RISE Fellow**
+
+I study how people use AI in research and learning communities. I am interested in how new practices spread, how people learn when to trust or question AI, and how these choices shape collaboration and knowledge creation.
+
+My work draws on social network analysis and mixed methods. I am also developing agent-based modeling approaches to study how individual choices can produce larger patterns of social behavior.
+
+[Research & Collaborations](research.qmd){.btn .btn-primary}
+[Teaching](teaching.qmd){.btn .btn-secondary}
+[CV & Selected Work](cv.qmd){.btn .btn-secondary}
+
 :::
 
-::: {.g-col-12 .g-col-md-5}
-![](assets/images/profile_square.jpg){width="70%" .img-fluid .d-block .mx-auto}
+::: {.g-col-12 .g-col-md-5 .hero-photo}
+
+![Professional portrait of Lorraine Gaudio](assets/images/lorraine-rise-headshot.jpg){.img-fluid}
+
 :::
 
 ::::
 
-
-:::: {.row .align-items-center .g-4}
-
-
-
-::::
-
-::: {.network-banner}
 :::
 
-## What I study
 
-I study how knowledge, values, and emerging AI practices move through research and learning communities. My work brings together data analytics, social network analysis, mixed methods, and human-centered approaches to emerging technology.
+::: {.home-section}
 
-## What I do
+## What I am working toward
 
-::: {.feature-grid}
-::: {.feature-card}
-### Map knowledge networks
+Emerging AI tools are changing how people learn, conduct research, solve problems, and work with one another. I want to understand those changes at more than one level. What happens when an individual decides to use an AI tool in a particular way? How do those choices spread through groups? When do they strengthen learning, agency, and collaboration, and when might they undermine them?
 
-I use network thinking to study collaboration, technology adoption, and the movement of practices across communities.
+My current work connects these questions across research, teaching, and responsible technology use.
+
 :::
 
-::: {.feature-card}
-### Study AI in practice
 
-I examine how people learn, teach, collaborate, and make decisions with generative AI and other emerging technologies.
-:::
+::: {.home-section}
 
-::: {.feature-card}
-### Build bridges across fields
-
-I work across computing, anthropology, education, and responsible innovation to support more thoughtful technology use.
-:::
-:::
-
-## Research nodes
+## Explore my work
 
 ::: {.node-grid}
+
 ::: {.node-card .node-one}
-### Knowledge Networks & Responsible AI
+### Research
 
-My current research direction focuses on how knowledge, values, and AI practices move through research and learning communities.
+My developing PhD research examines AI use, social behavior, and the spread of practices through research and learning communities.
 
-[Explore direction](research.qmd#current-direction)
+[Explore my research](research.qmd)
 :::
 
 ::: {.node-card .node-two}
-### Social Impacts of Emerging Technologies
+### RISE Fellowship
 
-RISE and SioC connect my work to broader questions about emerging technologies, well-being, and interdisciplinary collaboration.
+As a RISE Fellow, I study the societal impacts of emerging technologies through interdisciplinary and stakeholder-engaged research.
 
-[View work](rise.qmd)
+[Learn about RISE](rise.qmd)
 :::
 
 ::: {.node-card .node-three}
-### Human-Centered AI Collaborations
+### Human-Centered AI
 
-I contribute to projects that examine how AI is shaping practice in education, healthcare, and community settings.
+I collaborate on projects examining how AI is changing practice in education, research, and other professional communities.
 
 [View collaborations](human-centered-ai-collaborations.qmd)
 :::
 
 ::: {.node-card .node-four}
-### Teaching, Learning, and AI
+### Teaching and Learning
 
-My teaching work explores AI-era learning, R programming, student agency, and responsible tool use.
+I teach Introduction to R Programming and design learning environments that address coding, AI use, student agency, and reproducible practice.
 
-[View teaching](teaching.qmd#data-r155)
+[Explore my teaching](teaching.qmd)
 :::
 
 ::: {.node-card .node-five}
-### Network Analysis & Collaboration
+### Social Network Analysis
 
-My master’s thesis used social network analysis to study interdisciplinary collaboration at Boise State.
+My master's research used social network analysis to examine interdisciplinary collaboration and the structure of research relationships.
 
-[View foundation](research.qmd#masters-thesis)
+[Read about my master's research](research.qmd#masters-thesis)
 :::
+
+:::
+
+:::
+
+
+::: {.home-section .selected-work}
+
+## Selected publications
+
+**Gaudio, E. L. (2024).** *The dawn of advanced collaborative practices: Charting transdisciplinary synergies through thematic and social network analysis within Boise State's Grand Challenges initiative.* Boise State University Theses and Dissertations.  
+[Read my master's thesis](https://doi.org/10.18122/td.2143.boisestate){target="_blank"}
+
+**Gaudio, L., Larson, A., Dunn, L., & McClure, C. J. W. (2023).** Temperature changes are associated with the breeding phenology of Mountain Bluebirds (*Sialia currucoides*) in southern Idaho. *The Wilson Journal of Ornithology.*  
+[View the publication](https://doi.org/10.1676/22-00112){target="_blank"}
+
+[See more selected work](cv.qmd)
+
 :::
