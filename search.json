@@ -165,34 +165,27 @@
     "href": "index.html",
     "title": "Lorraine Gaudio",
     "section": "",
-    "text": "Hello World!\nAfter 20-plus years of grooming dogs, I did a 180 and went back to school. I earned a master’s degree in anthropology and am now pursuing a PhD in computing with a focus on knowledge networks, responsible AI, and interdisciplinary collaboration. I am also a RISE Fellow studying how emerging technologies shape research, learning, and human flourishing."
+    "text": "PhD student in Computing at Boise State University · RISE Fellow\n\n\n\n\nI study how AI is reshaping knowledge creation and collective learning in research communities.\n\nMy research examines how people trust, verify, adapt, reject, and share AI-mediated practices, and how those patterns affect collective intelligence, scientific integrity, and human judgment.\n\nExplore my research View collaborations CV & selected work"
   },
   {
-    "objectID": "index.html#lorraine-gaudio",
-    "href": "index.html#lorraine-gaudio",
+    "objectID": "index.html#current-research-focus",
+    "href": "index.html#current-research-focus",
     "title": "Lorraine Gaudio",
-    "section": "",
-    "text": "Hello World!\nAfter 20-plus years of grooming dogs, I did a 180 and went back to school. I earned a master’s degree in anthropology and am now pursuing a PhD in computing with a focus on knowledge networks, responsible AI, and interdisciplinary collaboration. I am also a RISE Fellow studying how emerging technologies shape research, learning, and human flourishing."
+    "section": "Current research focus",
+    "text": "Current research focus\nAI systems are becoming part of how researchers generate ideas, evaluate evidence, make decisions, and learn from one another. I study these changes as features of a larger sociotechnical system involving people, AI tools, institutions, networks, practices, and norms.\nAcross this work, I ask how AI-mediated practices spread through communities, how people decide when to rely on or question AI, and how repeated interactions may shape collaboration, diversity of knowledge, and scientific self-correction.\nMethodologically, I draw on social network analysis, data analytics, and mixed methods. I am also developing computational and agent-based modeling approaches to study human-AI systems over time.\n\nSocial network analysis Human-AI systems Data analytics Collective intelligence Scientific integrity Computational modeling"
   },
   {
-    "objectID": "index.html#what-i-study",
-    "href": "index.html#what-i-study",
+    "objectID": "index.html#explore-my-work",
+    "href": "index.html#explore-my-work",
     "title": "Lorraine Gaudio",
-    "section": "What I study",
-    "text": "What I study\nI study how knowledge, values, and emerging AI practices move through research and learning communities. My work brings together data analytics, social network analysis, mixed methods, and human-centered approaches to emerging technology."
+    "section": "Explore my work",
+    "text": "Explore my work\n\n\nCurrent PhD research\nI examine how AI-mediated practices move through research communities and how trust, verification, and social learning shape their adoption.\nExplore my research\n\n\nRISE Fellowship\nAs a RISE Fellow, I study the societal impacts of emerging technologies through interdisciplinary and stakeholder-engaged research.\nLearn about RISE\n\n\nHuman-Centered AI Collaborations\nI contribute to interdisciplinary projects examining how AI is changing research, education, and professional practice.\nView collaborations\n\n\nTeaching and Learning\nI teach Introduction to R Programming and design learning environments centered on coding, AI use, student agency, and reproducible practice.\nExplore my teaching\n\n\nSocial Network Analysis\nMy master’s research used social network analysis to examine interdisciplinary collaboration and the structure of research relationships.\nRead about my master’s research"
   },
   {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
+    "objectID": "index.html#selected-scholarship",
+    "href": "index.html#selected-scholarship",
     "title": "Lorraine Gaudio",
-    "section": "What I do",
-    "text": "What I do\n\n\nMap knowledge networks\nI use network thinking to study collaboration, technology adoption, and the movement of practices across communities.\n\n\nStudy AI in practice\nI examine how people learn, teach, collaborate, and make decisions with generative AI and other emerging technologies.\n\n\nBuild bridges across fields\nI work across computing, anthropology, education, and responsible innovation to support more thoughtful technology use."
-  },
-  {
-    "objectID": "index.html#research-nodes",
-    "href": "index.html#research-nodes",
-    "title": "Lorraine Gaudio",
-    "section": "Research nodes",
-    "text": "Research nodes\n\n\nKnowledge Networks & Responsible AI\nMy current research direction focuses on how knowledge, values, and AI practices move through research and learning communities.\nExplore direction\n\n\nSocial Impacts of Emerging Technologies\nRISE and SioC connect my work to broader questions about emerging technologies, well-being, and interdisciplinary collaboration.\nView work\n\n\nHuman-Centered AI Collaborations\nI contribute to projects that examine how AI is shaping practice in education, healthcare, and community settings.\nView collaborations\n\n\nTeaching, Learning, and AI\nMy teaching work explores AI-era learning, R programming, student agency, and responsible tool use.\nView teaching\n\n\nNetwork Analysis & Collaboration\nMy master’s thesis used social network analysis to study interdisciplinary collaboration at Boise State.\nView foundation"
+    "section": "Selected scholarship",
+    "text": "Selected scholarship\nGaudio, E. L. (2024). The dawn of advanced collaborative practices: Charting transdisciplinary synergies through thematic and social network analysis within Boise State’s Grand Challenges initiative. Boise State University Theses and Dissertations.\nRead my master’s thesis\nGaudio, L., Larson, A., Dunn, L., & McClure, C. J. W. (2023). Temperature changes are associated with the breeding phenology of Mountain Bluebirds (Sialia currucoides) in southern Idaho. The Wilson Journal of Ornithology.\nView the publication\nSee more selected work"
   }
 ]
