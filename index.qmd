@@ -17,7 +17,7 @@ PhD student in Computing at Boise State University · RISE Fellow
 # Lorraine Gaudio
 
 ::: {.hero-lead}
-I study how AI is reshaping knowledge creation and collective learning in research communities.
+I study how AI is reshaping knowledge creation and collective learning in research and education communities.
 :::
 
 My research examines how people trust, verify, adapt, reject, and share AI-mediated practices, and how those patterns affect collective intelligence, scientific integrity, and human judgment.

@@ -2,7 +2,9 @@
 title: "RISE Fellowship"
 ---
 
-I am honored to have been selected for Boise State University’s competitive, NSF-funded Responsibility in Innovation and Scholarship Experience (RISE) traineeship. I enter the fellowship with an interdisciplinary foundation and practical experience examining responsible technology use empirically, collaboratively, and at the institutional level. Beginning in fall 2026, I will build on that preparation through coursework, stakeholder engagement, and university initiatives that connect AI innovation with human values and human flourishing.
+I am honored to have been selected for Boise State University’s competitive, NSF-funded Responsibility in Innovation and Scholarship Experience (RISE) traineeship. I enter the fellowship with an interdisciplinary foundation and practical experience examining responsible technology use empirically, collaboratively, and at the institutional level. Beginning in fall 2026, I am building on that preparation through coursework, stakeholder engagement, and university initiatives that connect AI innovation with human values and human flourishing.
+
+[Read My Student Bio](https://www.boisestate.edu/rise/student-bios/lorraine-gaudio/){target="_blank"}
 
 ## RISE traineeship {#rise}
 
@@ -14,7 +16,7 @@ The traineeship uses a team-science approach that includes coursework, mentoring
 
 ## RISE bootcamp {#bootcamp}
 
-Before beginning my funded traineeship, I attended the two-day RISE Spring Bootcamp on January 7 and 8, 2026. The bootcamp introduced RISE applicants to Responsible Research and Innovation and provided opportunities to evaluate the societal impacts of AI-related work, learn how government and industry professionals approach ethical AI development, and connect with other researchers interested in responsible innovation.
+Before beginning my funded traineeship, I attended the two-day RISE Spring Bootcamp on January 7 and 8, 2026 and then again August 17 and 18. The bootcamp introduced RISE applicants to Responsible Research and Innovation and provided opportunities to evaluate the societal impacts of AI-related work, learn how government and industry professionals approach ethical AI development, and connect with other researchers interested in responsible innovation.
 
 As part of the bootcamp, I completed a researcher-values exercise examining how different priorities can shape responsible AI. I identified agency as an essential value because people should be able to understand, question, and meaningfully influence how AI affects their work, education, and communities. I also considered the tension between human-centered values and return on investment, particularly when short-term efficiency is prioritized over autonomy, integrity, or long-term social consequences. Finally, I identified tenacity as an easily overlooked value that can help people use AI without surrendering the persistence, judgment, and accountability necessary for learning and trustworthy work.
 
@@ -22,7 +24,11 @@ The bootcamp culminated in an Individual Development Plan connecting my career, 
 
 ## COMPUT 502 {#comput-502}
 
-In fall 2026, I will take COMPUT 502: Societal Impacts of Emerging Technologies as part of the RISE curriculum. The course will provide a structured setting for examining how emerging technologies interact with human values, institutions, communities, and existing social conditions. I expect it to strengthen my ability to anticipate possible consequences, engage with stakeholder perspectives, and communicate about responsible innovation across disciplines. I will expand this section with specific topics and reflections as the course progresses.
+I am taking COMPUT 502: Societal Impacts of Emerging Technologies as part of the RISE curriculum. The course will provide a structured setting for examining how emerging technologies interact with human values, institutions, communities, and existing social conditions. I expect it to strengthen my ability to anticipate possible consequences, engage with stakeholder perspectives, and communicate about responsible innovation across disciplines. I will expand this section with specific topics and reflections as the course progresses.
+
+## COMPUT 598 {#comput-598}
+
+RISE Roundtable Seminars (COMPUT 598) ...
 
 ## Social Impacts of Computing {#sioc}
 
