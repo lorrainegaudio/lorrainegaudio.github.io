@@ -4,28 +4,28 @@
     "href": "cv.html",
     "title": "CV & Selected Work",
     "section": "",
-    "text": "A downloadable CV will be added here."
+    "text": "My curriculum vitae provides a concise record of my education, research experience, teaching, publications, presentations, funding, and service.\nOpen or download my CV (PDF)\nUpdated August 2026. The PDF opens in a new browser tab."
   },
   {
-    "objectID": "cv.html#download-cv",
-    "href": "cv.html#download-cv",
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
     "title": "CV & Selected Work",
     "section": "",
-    "text": "A downloadable CV will be added here."
+    "text": "My curriculum vitae provides a concise record of my education, research experience, teaching, publications, presentations, funding, and service.\nOpen or download my CV (PDF)\nUpdated August 2026. The PDF opens in a new browser tab."
   },
   {
-    "objectID": "cv.html#selected-academic-archive",
-    "href": "cv.html#selected-academic-archive",
+    "objectID": "cv.html#selected-academic-work",
+    "href": "cv.html#selected-academic-work",
     "title": "CV & Selected Work",
-    "section": "Selected academic archive",
-    "text": "Selected academic archive\nThis section will hold a small collection of selected undergraduate and graduate work. These items are included as an academic archive rather than as the main focus of the website."
+    "section": "Selected academic work",
+    "text": "Selected academic work\n\n\nMaster’s thesis\nThe Dawn of Advanced Collaborative Practices uses thematic and social network analysis to examine interdisciplinary collaboration within Boise State University’s Grand Challenges initiative.\nRead the thesis\n\n\nMountain Bluebird research\nThis peer-reviewed study examines relationships between temperature and the breeding phenology of Mountain Bluebirds in southern Idaho using a long-term community-science dataset.\nView the publication"
   },
   {
     "objectID": "rise.html",
     "href": "rise.html",
     "title": "RISE Fellowship",
     "section": "",
-    "text": "I am honored to have been selected for Boise State University’s competitive, NSF-funded Responsibility in Innovation and Scholarship Experience (RISE) traineeship. I enter the fellowship with an interdisciplinary foundation and practical experience examining responsible technology use empirically, collaboratively, and at the institutional level. Beginning in fall 2026, I will build on that preparation through coursework, stakeholder engagement, and university initiatives that connect AI innovation with human values and human flourishing."
+    "text": "I am honored to have been selected for Boise State University’s competitive, NSF-funded Responsibility in Innovation and Scholarship Experience (RISE) traineeship. I enter the fellowship with an interdisciplinary foundation and practical experience examining responsible technology use empirically, collaboratively, and at the institutional level. Beginning in fall 2026, I am building on that preparation through coursework, stakeholder engagement, and university initiatives that connect AI innovation with human values and human flourishing.\nRead My Student Bio"
   },
   {
     "objectID": "rise.html#rise",
@@ -39,14 +39,21 @@
     "href": "rise.html#bootcamp",
     "title": "RISE Fellowship",
     "section": "RISE bootcamp",
-    "text": "RISE bootcamp\nBefore beginning my funded traineeship, I attended the two-day RISE Spring Bootcamp on January 7 and 8, 2026. The bootcamp introduced RISE applicants to Responsible Research and Innovation and provided opportunities to evaluate the societal impacts of AI-related work, learn how government and industry professionals approach ethical AI development, and connect with other researchers interested in responsible innovation.\nAs part of the bootcamp, I completed a researcher-values exercise examining how different priorities can shape responsible AI. I identified agency as an essential value because people should be able to understand, question, and meaningfully influence how AI affects their work, education, and communities. I also considered the tension between human-centered values and return on investment, particularly when short-term efficiency is prioritized over autonomy, integrity, or long-term social consequences. Finally, I identified tenacity as an easily overlooked value that can help people use AI without surrendering the persistence, judgment, and accountability necessary for learning and trustworthy work.\nThe bootcamp culminated in an Individual Development Plan connecting my career, skill-development, and project goals. The plan will serve as a living guide for developing interdisciplinary relationships, strengthening my research and communication skills, and contributing to public conversations about responsible AI. When I return for the fall bootcamp, I will revisit these priorities, connect with the incoming RISE cohort, and refine the plan as my traineeship develops."
+    "text": "RISE bootcamp\nBefore beginning my funded traineeship, I attended the two-day RISE Spring Bootcamp on January 7 and 8, 2026 and then again August 17 and 18. The bootcamp introduced RISE applicants to Responsible Research and Innovation and provided opportunities to evaluate the societal impacts of AI-related work, learn how government and industry professionals approach ethical AI development, and connect with other researchers interested in responsible innovation.\nAs part of the bootcamp, I completed a researcher-values exercise examining how different priorities can shape responsible AI. I identified agency as an essential value because people should be able to understand, question, and meaningfully influence how AI affects their work, education, and communities. I also considered the tension between human-centered values and return on investment, particularly when short-term efficiency is prioritized over autonomy, integrity, or long-term social consequences. Finally, I identified tenacity as an easily overlooked value that can help people use AI without surrendering the persistence, judgment, and accountability necessary for learning and trustworthy work.\nThe bootcamp culminated in an Individual Development Plan connecting my career, skill-development, and project goals. The plan will serve as a living guide for developing interdisciplinary relationships, strengthening my research and communication skills, and contributing to public conversations about responsible AI. When I return for the fall bootcamp, I will revisit these priorities, connect with the incoming RISE cohort, and refine the plan as my traineeship develops."
   },
   {
     "objectID": "rise.html#comput-502",
     "href": "rise.html#comput-502",
     "title": "RISE Fellowship",
     "section": "COMPUT 502",
-    "text": "COMPUT 502\nIn fall 2026, I will take COMPUT 502: Societal Impacts of Emerging Technologies as part of the RISE curriculum. The course will provide a structured setting for examining how emerging technologies interact with human values, institutions, communities, and existing social conditions. I expect it to strengthen my ability to anticipate possible consequences, engage with stakeholder perspectives, and communicate about responsible innovation across disciplines. I will expand this section with specific topics and reflections as the course progresses."
+    "text": "COMPUT 502\nI am taking COMPUT 502: Societal Impacts of Emerging Technologies as part of the RISE curriculum. The course will provide a structured setting for examining how emerging technologies interact with human values, institutions, communities, and existing social conditions. I expect it to strengthen my ability to anticipate possible consequences, engage with stakeholder perspectives, and communicate about responsible innovation across disciplines. I will expand this section with specific topics and reflections as the course progresses."
+  },
+  {
+    "objectID": "rise.html#comput-598",
+    "href": "rise.html#comput-598",
+    "title": "RISE Fellowship",
+    "section": "COMPUT 598",
+    "text": "COMPUT 598\nRISE Roundtable Seminars (COMPUT 598) …"
   },
   {
     "objectID": "rise.html#sioc",
@@ -165,7 +172,7 @@
     "href": "index.html",
     "title": "Lorraine Gaudio",
     "section": "",
-    "text": "PhD student in Computing at Boise State University · RISE Fellow\n\n\n\n\nI study how AI is reshaping knowledge creation and collective learning in research communities.\n\nMy research examines how people trust, verify, adapt, reject, and share AI-mediated practices, and how those patterns affect collective intelligence, scientific integrity, and human judgment.\n\nExplore my research View collaborations CV & selected work"
+    "text": "PhD student in Computing at Boise State University · RISE Fellow\n\n\n\n\nI study how AI is reshaping knowledge creation and collective learning in research and education communities.\n\nMy research examines how people trust, verify, adapt, reject, and share AI-mediated practices, and how those patterns affect collective intelligence, scientific integrity, and human judgment.\n\nExplore my research View collaborations CV & selected work"
   },
   {
     "objectID": "index.html#current-research-focus",
