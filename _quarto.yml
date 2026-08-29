@@ -4,6 +4,7 @@ project:
   resources:
     - assets/materials/**
     - assets/images/**
+    - assets/docs/Lorraine-Gaudio-CV.pdf
     
 website:
   title: "Lorraine Gaudio"

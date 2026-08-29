@@ -1,11 +1,38 @@
 ---
 title: "CV & Selected Work"
+toc: false
 ---
 
-## Download CV
+## Curriculum vitae
 
-A downloadable CV will be added here.
+My curriculum vitae provides a concise record of my education, research experience, teaching, publications, presentations, funding, and service.
 
-## Selected academic archive
+[Open or download my CV (PDF)](assets/docs/Lorraine-Gaudio-CV.pdf){.btn .btn-primary target="_blank"}
 
-This section will hold a small collection of selected undergraduate and graduate work. These items are included as an academic archive rather than as the main focus of the website.
+*Updated August 2026. The PDF opens in a new browser tab.*
+
+## Selected academic work
+
+::: {.feature-grid}
+
+::: {.feature-card}
+
+### Master's thesis
+
+*The Dawn of Advanced Collaborative Practices* uses thematic and social network analysis to examine interdisciplinary collaboration within Boise State University's Grand Challenges initiative.
+
+[Read the thesis](https://doi.org/10.18122/td.2143.boisestate){target="_blank"}
+
+:::
+
+::: {.feature-card}
+
+### Mountain Bluebird research
+
+This peer-reviewed study examines relationships between temperature and the breeding phenology of Mountain Bluebirds in southern Idaho using a long-term community-science dataset.
+
+[View the publication](https://doi.org/10.1676/22-00112){target="_blank"}
+
+:::
+
+:::
