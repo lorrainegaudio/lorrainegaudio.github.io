@@ -74,28 +74,42 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My current research examines how knowledge, values, and emerging AI practices move through research and learning communities. I am especially interested in how people learn, collaborate, trust, and make responsible decisions with emerging technologies."
+    "text": "I study how AI is changing the ways research communities learn, share practices, make judgments, and maintain scientific integrity. I approach these communities as sociotechnical systems in which people, institutions, technologies, networks, and shared resources jointly shape knowledge.\nMy developing PhD research examines how researchers encounter, evaluate, adapt, reject, and transmit AI-mediated practices. I am interested in how these processes relate to collective intelligence, scientific integrity, and human judgment.\nI understand collective intelligence as a community’s capacity to combine distributed expertise, preserve productive disagreement, detect and correct error, and improve its practices over time. This perspective shifts attention from individual AI use alone to the larger relationships and conditions through which research practices become visible, credible, questioned, revised, or shared."
   },
   {
     "objectID": "research.html#current-direction",
     "href": "research.html#current-direction",
     "title": "Research",
     "section": "",
-    "text": "My current research examines how knowledge, values, and emerging AI practices move through research and learning communities. I am especially interested in how people learn, collaborate, trust, and make responsible decisions with emerging technologies."
+    "text": "I study how AI is changing the ways research communities learn, share practices, make judgments, and maintain scientific integrity. I approach these communities as sociotechnical systems in which people, institutions, technologies, networks, and shared resources jointly shape knowledge.\nMy developing PhD research examines how researchers encounter, evaluate, adapt, reject, and transmit AI-mediated practices. I am interested in how these processes relate to collective intelligence, scientific integrity, and human judgment.\nI understand collective intelligence as a community’s capacity to combine distributed expertise, preserve productive disagreement, detect and correct error, and improve its practices over time. This perspective shifts attention from individual AI use alone to the larger relationships and conditions through which research practices become visible, credible, questioned, revised, or shared."
   },
   {
-    "objectID": "research.html#emerging-phd-research",
-    "href": "research.html#emerging-phd-research",
+    "objectID": "research.html#questions",
+    "href": "research.html#questions",
     "title": "Research",
-    "section": "Emerging PhD research",
-    "text": "Emerging PhD research\nMy PhD research is still taking shape. I am interested in extending my earlier interview and network research to examine how researchers’ values and experiences shape AI use, how emerging practices spread through research communities, and how those patterns affect interdisciplinary collaboration. The unpublished AIROE interviews may provide a foundation for expanding this work while I continue developing questions about research integrity, institutional change, and responsible decision-making with AI.\nSeveral collaborations have shaped this direction. Trace the progression through my human-centered AI collaborations, from AIROE and the AI Institute to the developing Idaho Institute for Human-Centered AI."
+    "section": "Questions guiding my work",
+    "text": "Questions guiding my work\nSeveral broad questions orient this research:\n\nHow do AI-mediated practices move through research communities?\nHow do researchers decide when to trust, verify, revise, question, or decline AI assistance?\nHow do social networks and institutional settings shape collective learning and scientific self-correction?"
+  },
+  {
+    "objectID": "research.html#methods",
+    "href": "research.html#methods",
+    "title": "Research",
+    "section": "Methods and computational development",
+    "text": "Methods and computational development\nMy established methodological experience includes data analytics, social network analysis, exponential random graph models, survey research, interviews, mixed methods, and reproducible quantitative workflows in R.\nDuring my doctoral training, I am extending this foundation through cultural-evolutionary approaches, computational modeling, and agent-based modeling. These are developing directions that I am learning to use to examine how individual interactions and decisions may contribute to larger patterns in human-AI systems over time."
   },
   {
     "objectID": "research.html#masters-thesis",
     "href": "research.html#masters-thesis",
     "title": "Research",
     "section": "Master’s thesis foundation",
-    "text": "Master’s thesis foundation\nMy master’s thesis used social network analysis to examine interdisciplinary collaboration in Boise State’s Grand Challenges initiative. This project helped shape my current interest in knowledge networks, collaboration structures, and the conditions that support or limit interdisciplinary research.\nRead my master’s thesis."
+    "text": "Master’s thesis foundation\nMy master’s thesis used thematic analysis and social network analysis to examine interdisciplinary collaboration within Boise State University’s Grand Challenges initiative. The project examined collaboration structure, disciplinary clustering, and the roles that connect otherwise separated parts of a research network. It established my interest in knowledge networks and in the conditions that support or limit collective research.\nRead my master’s thesis.\nMy current direction also grows from practical interdisciplinary work documented on my Human-Centered AI Collaborations and RISE Fellowship pages."
+  },
+  {
+    "objectID": "research.html#developing-work",
+    "href": "research.html#developing-work",
+    "title": "Research",
+    "section": "Work in development",
+    "text": "Work in development\nI am currently refining the empirical scope and computational approaches for this research program. I will add project-specific methods, public artifacts, and findings as the work reaches appropriate public milestones."
   },
   {
     "objectID": "teaching.html",
