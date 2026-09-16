@@ -28,13 +28,15 @@ I am taking COMPUT 502: Societal Impacts of Emerging Technologies as part of the
 
 ## COMPUT 598 {#comput-598}
 
-RISE Roundtable Seminars (COMPUT 598) ...
+### Who Does What?
+
+On September 14, 2026, I led *Who Does What?* as part of RISE Roundtable Seminars. I designed a workflow activity and prepared presentation and worksheet materials in multiple formats to support participation. Faculty and doctoral students from different disciplines compared how they understood and evaluated examples of generative AI use in research. I was surprised by how differently faculty responded to the same example workflows. Their disagreements reinforced for me the importance of discussing expectations about AI use, verification, and responsibility with collaborators. Preparing and facilitating the session also helped me clarify my own developing research direction. Explaining my ideas to an interdisciplinary audience helped me articulate what I wanted to investigate and how the work could benefit participating researchers while contributing to scientific integrity. I left with greater confidence in my direction and practical suggestions to consider as I develop the research. The experience showed me how much I can learn about my own ideas through preparing a conversation and listening to how others respond.
 
 ## Social Impacts of Computing {#sioc}
 
 Boise State's [Social Impacts of Computing](https://www.boisestate.edu/computing/partnerships-collaborations/social-impacts-of-computing/){target="_blank"} (SioC) community explores and helps shape the evolving relationship between computing and society. Through workshops and transdisciplinary conversations, SioC brings together faculty, students, industry professionals, and community partners to examine how computing affects human flourishing and how competing values can inform responsible innovation.
 
-My involvement has developed across each of the three annual workshops. I attended the inaugural SioC workshop, helped plan and evaluate the second workshop in 2025, and will contribute to the third workshop in September 2026 as part of my RISE fellowship work. SioC conversations have directed my academic and professional interests. I am proud to have to opportunity to document what the community discusses, values, and learns.
+My involvement has developed across each of the three annual workshops. I attended the inaugural SioC workshop, helped plan and evaluate the second workshop in 2025, and will attend the third workshop in September 2026. SioC conversations have directed my academic and professional interests. I am proud to have to opportunity to experience what the community discusses, values, and learns.
 
 ### SioC 2025 workshop analysis
 
@@ -48,10 +50,8 @@ Following the workshop, I analyzed registration and attendance data, pre-worksho
 
 The [Social Impacts of Computing Workshop 2026](assets/materials/SioC_3_Workshop_Flyer_Final.pdf){target="_blank"} will take place September 17 and 18 at Boise State University. Its sessions will address AI hesitance, AI across education, RISE and AI scholarship, and collaborative problem solving through the Tech Kitchen. Each session will combine an introduction, a cross-sector panel, and audience-led roundtable discussions.
 
-My anticipated role centers on evaluating participant experiences, workshop conversations, and event outcomes. I expect to analyze participant feedback and records of the roundtable discussions, with qualitative thematic analysis serving as an important part of that work. Repeating elements of the 2025 evaluation will also create an opportunity to compare the second and third workshops and examine how participants' concerns, values, and priorities may have changed over the intervening year.
-
 ## RISE community and professional development {#rise-community}
 
-Beginning in fall 2026, I will participate in RISE roundtable seminars, stakeholder meetings, mentoring, cohort activities, and professional-development events. These recurring experiences will provide opportunities to learn from researchers and community partners, contribute to interdisciplinary conversations, and develop relationships across fields and sectors. They will also create a space to reflect on how responsible innovation can be practiced collaboratively and adapted in response to stakeholder perspectives.
+Beginning in fall 2026, I will participate in stakeholder meetings, mentoring, cohort activities, and professional-development events. These recurring experiences will provide opportunities to learn from researchers and community partners, contribute to interdisciplinary conversations, and develop relationships across fields and sectors. They will also create a space to reflect on how responsible innovation can be practiced collaboratively and adapted in response to stakeholder perspectives.
 
 
