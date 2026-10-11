@@ -129,14 +129,17 @@ body {
   font-size: 1.12rem;
 }
 
-.topic-tags {
+.topic-tags,
+#title-block-header .quarto-categories {
   display: flex;
   flex-wrap: wrap;
   gap: 0.65rem;
   margin-top: 1.5rem;
+  padding-bottom: 0;
 }
 
-.topic-tag {
+.topic-tag,
+#title-block-header .quarto-category {
   display: inline-block;
   padding: 0.42rem 0.82rem;
   border: 1px solid #c7d8dc;
@@ -145,6 +148,21 @@ body {
   color: #2f5f6e;
   font-size: 0.9rem;
   font-weight: 600;
+  text-transform: none;
+  opacity: 1;
+}
+
+/* Category links inherit the shared keyword label weight. */
+.topic-tag a,
+#title-block-header .quarto-category a {
+  font-weight: inherit;
+}
+
+/* Reflection header: separate post metadata from the opening paragraph. */
+#title-block-header.reflection-header {
+  padding-bottom: 1.5rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #3e7286;
 }
 
 /* Content width */

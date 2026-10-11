@@ -1,73 +1,45 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV & Selected Work",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Reflections",
     "section": "",
-    "text": "My curriculum vitae provides a concise record of my education, research experience, teaching, publications, presentations, funding, and service.\nOpen or download my CV (PDF)\nUpdated August 2026. The PDF opens in a new browser tab."
+    "text": "A Bicycle, Subject to Approval\n\n        Oct 10, 2026\n\n        A reflection on who gets to decide what counts, from bicycle racing rules to the design of research and teaching with AI.\n\n        \n\n          Cultural Evolution\n\n          Teaching\n\n          Research\n\n          COMPUT 502\n\n        \n\n        Read reflection →\n      \n\n      \n        \n\n        \n          Image: Manotechnologie\n          CC BY-SA 3.0\n        \n\n      \n\n    \n  \n\n\nNo matching items"
   },
   {
-    "objectID": "cv.html#curriculum-vitae",
-    "href": "cv.html#curriculum-vitae",
-    "title": "CV & Selected Work",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lorraine Gaudio",
     "section": "",
-    "text": "My curriculum vitae provides a concise record of my education, research experience, teaching, publications, presentations, funding, and service.\nOpen or download my CV (PDF)\nUpdated August 2026. The PDF opens in a new browser tab."
+    "text": "PhD student in Computing at Boise State University · RISE Fellow\n\n\n\n\nI study how AI is reshaping knowledge creation and collective learning in research and education communities.\n\nMy research examines how people trust, verify, adapt, reject, and share AI-mediated practices, and how those patterns affect collective intelligence, scientific integrity, and human judgment.\n\nExplore my research View collaborations CV & selected work"
   },
   {
-    "objectID": "cv.html#selected-academic-work",
-    "href": "cv.html#selected-academic-work",
-    "title": "CV & Selected Work",
-    "section": "Selected academic work",
-    "text": "Selected academic work\n\n\nMaster’s thesis\nThe Dawn of Advanced Collaborative Practices uses thematic and social network analysis to examine interdisciplinary collaboration within Boise State University’s Grand Challenges initiative.\nRead the thesis\n\n\nMountain Bluebird research\nThis peer-reviewed study examines relationships between temperature and the breeding phenology of Mountain Bluebirds in southern Idaho using a long-term community-science dataset.\nView the publication"
+    "objectID": "index.html#current-research-focus",
+    "href": "index.html#current-research-focus",
+    "title": "Lorraine Gaudio",
+    "section": "Current research focus",
+    "text": "Current research focus\nAI systems are becoming part of how researchers generate ideas, evaluate evidence, make decisions, and learn from one another. I study these changes as features of a larger sociotechnical system involving people, AI tools, institutions, networks, practices, and norms.\nAcross this work, I ask how AI-mediated practices spread through communities, how people decide when to rely on or question AI, and how repeated interactions may shape collaboration, diversity of knowledge, and scientific self-correction.\nMethodologically, I draw on social network analysis, data analytics, and mixed methods. I am also developing computational and agent-based modeling approaches to study human-AI systems over time.\n\nSocial network analysis Human-AI systems Data analytics Collective intelligence Scientific integrity Computational modeling"
   },
   {
-    "objectID": "rise.html",
-    "href": "rise.html",
-    "title": "RISE Fellowship",
+    "objectID": "index.html#explore-my-work",
+    "href": "index.html#explore-my-work",
+    "title": "Lorraine Gaudio",
+    "section": "Explore my work",
+    "text": "Explore my work\n\n\nCurrent PhD research\nI examine how AI-mediated practices move through research communities and how trust, verification, and social learning shape their adoption.\nExplore my research\n\n\nRISE Fellowship\nAs a RISE Fellow, I study the societal impacts of emerging technologies through interdisciplinary and stakeholder-engaged research.\nLearn about RISE\n\n\nHuman-Centered AI Collaborations\nI contribute to interdisciplinary projects examining how AI is changing research, education, and professional practice.\nView collaborations\n\n\nTeaching and Learning\nI teach Introduction to R Programming and design learning environments centered on coding, AI use, student agency, and reproducible practice.\nExplore my teaching\n\n\nSocial Network Analysis\nMy master’s research used social network analysis to examine interdisciplinary collaboration and the structure of research relationships.\nRead about my master’s research"
+  },
+  {
+    "objectID": "index.html#selected-scholarship",
+    "href": "index.html#selected-scholarship",
+    "title": "Lorraine Gaudio",
+    "section": "Selected scholarship",
+    "text": "Selected scholarship\nGaudio, E. L. (2024). The dawn of advanced collaborative practices: Charting transdisciplinary synergies through thematic and social network analysis within Boise State’s Grand Challenges initiative. Boise State University Theses and Dissertations.\nRead my master’s thesis\nGaudio, L., Larson, A., Dunn, L., & McClure, C. J. W. (2023). Temperature changes are associated with the breeding phenology of Mountain Bluebirds (Sialia currucoides) in southern Idaho. The Wilson Journal of Ornithology.\nView the publication\nSee more selected work"
+  },
+  {
+    "objectID": "posts/comput-502-mid-course-reflection/index.html",
+    "href": "posts/comput-502-mid-course-reflection/index.html",
+    "title": "A Bicycle, Subject to Approval",
     "section": "",
-    "text": "I am honored to have been selected for Boise State University’s competitive, NSF-funded Responsibility in Innovation and Scholarship Experience (RISE) traineeship. I enter the fellowship with an interdisciplinary foundation and practical experience examining responsible technology use empirically, collaboratively, and at the institutional level. Beginning in fall 2026, I am building on that preparation through coursework, stakeholder engagement, and university initiatives that connect AI innovation with human values and human flourishing.\nRead My Student Bio"
-  },
-  {
-    "objectID": "rise.html#rise",
-    "href": "rise.html#rise",
-    "title": "RISE Fellowship",
-    "section": "RISE traineeship",
-    "text": "RISE traineeship\nBoise State University’s Responsibility in Innovation and Scholarship Experience (RISE) program is supported by a nearly $2 million award from the U.S. National Science Foundation’s Research Traineeship program under award no. 2509828.\nRISE prepares AI graduate researchers to anticipate the potential social harms of emerging technologies, work with the people those technologies may affect, and adapt their work in response. The program brings researchers in computing, engineering, and other STEM disciplines together with faculty from the humanities and social sciences, industry professionals, and community stakeholders. Its goal is to bridge technical AI training with a broader understanding of social issues and human values so that AI research and innovation can contribute to human flourishing.\nThe traineeship uses a team-science approach that includes coursework, mentoring, stakeholder workshops, roundtable discussions, professional development, and industry experiences. Twenty-five graduate students are expected to complete the full training experience, including fifteen funded trainees, while at least 200 additional Boise State students will participate in individual elements of the program. Through this structure, RISE seeks to strengthen responsible AI education, broaden participation in technology development, and prepare researchers for collaborative work across academia, government, and industry."
-  },
-  {
-    "objectID": "rise.html#bootcamp",
-    "href": "rise.html#bootcamp",
-    "title": "RISE Fellowship",
-    "section": "RISE bootcamp",
-    "text": "RISE bootcamp\nBefore beginning my funded traineeship, I attended the two-day RISE Spring Bootcamp on January 7 and 8, 2026 and then again August 17 and 18. The bootcamp introduced RISE applicants to Responsible Research and Innovation and provided opportunities to evaluate the societal impacts of AI-related work, learn how government and industry professionals approach ethical AI development, and connect with other researchers interested in responsible innovation.\nAs part of the bootcamp, I completed a researcher-values exercise examining how different priorities can shape responsible AI. I identified agency as an essential value because people should be able to understand, question, and meaningfully influence how AI affects their work, education, and communities. I also considered the tension between human-centered values and return on investment, particularly when short-term efficiency is prioritized over autonomy, integrity, or long-term social consequences. Finally, I identified tenacity as an easily overlooked value that can help people use AI without surrendering the persistence, judgment, and accountability necessary for learning and trustworthy work.\nThe bootcamp culminated in an Individual Development Plan connecting my career, skill-development, and project goals. The plan will serve as a living guide for developing interdisciplinary relationships, strengthening my research and communication skills, and contributing to public conversations about responsible AI. When I return for the fall bootcamp, I will revisit these priorities, connect with the incoming RISE cohort, and refine the plan as my traineeship develops."
-  },
-  {
-    "objectID": "rise.html#comput-502",
-    "href": "rise.html#comput-502",
-    "title": "RISE Fellowship",
-    "section": "COMPUT 502",
-    "text": "COMPUT 502\nI am taking COMPUT 502: Societal Impacts of Emerging Technologies as part of the RISE curriculum. The course will provide a structured setting for examining how emerging technologies interact with human values, institutions, communities, and existing social conditions. I expect it to strengthen my ability to anticipate possible consequences, engage with stakeholder perspectives, and communicate about responsible innovation across disciplines. I will expand this section with specific topics and reflections as the course progresses."
-  },
-  {
-    "objectID": "rise.html#comput-598",
-    "href": "rise.html#comput-598",
-    "title": "RISE Fellowship",
-    "section": "COMPUT 598",
-    "text": "COMPUT 598\n\nWho Does What?\nOn September 14, 2026, I led Who Does What? as part of RISE Roundtable Seminars. I designed a workflow activity and prepared presentation and worksheet materials in multiple formats to support participation. Faculty and doctoral students from different disciplines compared how they understood and evaluated examples of generative AI use in research. I was surprised by how differently faculty responded to the same example workflows. Their disagreements reinforced for me the importance of discussing expectations about AI use, verification, and responsibility with collaborators. Preparing and facilitating the session also helped me clarify my own developing research direction. Explaining my ideas to an interdisciplinary audience helped me articulate what I wanted to investigate and how the work could benefit participating researchers while contributing to scientific integrity. I left with greater confidence in my direction and practical suggestions to consider as I develop the research. The experience showed me how much I can learn about my own ideas through preparing a conversation and listening to how others respond."
-  },
-  {
-    "objectID": "rise.html#sioc",
-    "href": "rise.html#sioc",
-    "title": "RISE Fellowship",
-    "section": "Social Impacts of Computing",
-    "text": "Social Impacts of Computing\nBoise State’s Social Impacts of Computing (SioC) community explores and helps shape the evolving relationship between computing and society. Through workshops and transdisciplinary conversations, SioC brings together faculty, students, industry professionals, and community partners to examine how computing affects human flourishing and how competing values can inform responsible innovation.\nMy involvement has developed across each of the three annual workshops. I attended the inaugural SioC workshop, helped plan and evaluate the second workshop in 2025, and will attend the third workshop in September 2026. SioC conversations have directed my academic and professional interests. I am proud to have to opportunity to experience what the community discusses, values, and learns.\n\nSioC 2025 workshop analysis\nThe 2025 workshop, Emerging Technologies and Well-Being, brought together 71 participants from education, business, government, healthcare, technology, finance, and other sectors. The program combined panels and demonstrations with participant-directed unconference discussions about extended reality, education, the environment, healthcare, and artificial intelligence.\nFollowing the workshop, I analyzed registration and attendance data, pre-workshop responses, post-workshop feedback, and participant-generated notes from sticky notes and whiteboards. I used thematic analysis to identify recurring concerns and interests, and network analysis to examine how values appeared together in participants’ descriptions of the social impacts of computing. Responsibility, transparency, and integrity formed the most central cluster of values, while the analysis also identified collaboration, curiosity, privacy, inclusivity, equity, and environmental stewardship as important parts of the community’s conversation. I combined these findings with participation patterns and event feedback to develop recommendations for future SioC activities.\nRead the SioC 2025 event summary and view the SioC 2025 value network analysis.\n\n\nSioC 2026 workshop\nThe Social Impacts of Computing Workshop 2026 will take place September 17 and 18 at Boise State University. Its sessions will address AI hesitance, AI across education, RISE and AI scholarship, and collaborative problem solving through the Tech Kitchen. Each session will combine an introduction, a cross-sector panel, and audience-led roundtable discussions."
-  },
-  {
-    "objectID": "rise.html#rise-community",
-    "href": "rise.html#rise-community",
-    "title": "RISE Fellowship",
-    "section": "RISE community and professional development",
-    "text": "RISE community and professional development\nBeginning in fall 2026, I will participate in stakeholder meetings, mentoring, cohort activities, and professional-development events. These recurring experiences will provide opportunities to learn from researchers and community partners, contribute to interdisciplinary conversations, and develop relationships across fields and sectors. They will also create a space to reflect on how responsible innovation can be practiced collaboratively and adapted in response to stakeholder perspectives."
+    "text": "A bicycle seems like a fairly straightforward thing to recognize. Two wheels, pedals, somebody doing the pedaling. Give it a speed record, and you might reasonably expect congratulations.\nYou might also need to check the definition.\nIn 1933, Francis Faure broke the one-hour cycling record riding the Velocar, a recumbent bicycle. Supporters saw an improved bicycle; others questioned whether it counted as a bicycle at all. Those interpretations carried unequal weight. The Union Cycliste Internationale used its authority to turn its definition into racing rules, excluding recumbents and annulling the Velocar’s records. According to Hassaan Ahmed, Omer Masood Qureshi, and Abid Ali Khan, that maneuver helped preserve the upright bicycle’s dominance. What seems like an obvious definition today carries a history of whose interpretation was deemed authoritative enough to become the standard.\n\n\n\nModern illustration of Charles Mochet’s Velocar. “Velocar” by Manotechnologie, CC BY-SA 3.0. Shown at reduced size.\n\n\nThe bicycle left me with a question: who gets to decide what counts?\nDuring the first seven weeks of COMPUT 502 with Donald “Don” Winiecki, we examined whose priorities shape technologies and their rules. My partner Lindsay and I worked through case studies, comparing stakeholders’ priorities and proposing changes for people whose interests received less attention.\nThat question also reaches into my own work. Who gets a meaningful say in what I design? Our reading for Full Stack Ethics, Vallor’s technomoral virtues, and ALTAI gave me ways to examine benefits, harms, responsibilities, and whose interests a decision serves. Meaningful participation involves talking about the values behind our judgments and being willing to examine them together. Open-mindedness includes skepticism.\nMy research asks how AI-shaped workflows become part of research culture. What makes practices persist, change, disappear, or return as teams learn from one another? In the workshops I’m planning, teams would learn and test workflows, then choose to retain, revise, or completely reject components. They would pass their procedures and the reasons for their choices to later teams. I want to compare what persists with what researchers find useful and how independent reviewers assess the work they produce. Those observations would inform agent-based models, computer simulations exploring how practices might change across longer sequences of teams. The aim is to help researchers evaluate and share practices that uphold scientific standards.\n\n\n\nSelected bicycle designs spanning more than a century. The timeline offers a longer view of technological change as I consider how AI practices might develop within research communities. “Bicycle evolution-numbers” by Al2, via Wikimedia Commons, CC BY 3.0. Shown at reduced size.\n\n\nBut how long does this kind of change take? Narayanan and Kapoor’s AI as Normal Technology challenged my expectations. They argue that diffusion depends on people and institutions changing habits, testing practices, and learning what works in their own settings. They expect that process to unfold over decades. I had expected research workflows to change more quickly. Their argument gives me a longer horizon to consider as I frame my research and design my teaching.\nIn my Introduction to R Programming course, students could choose whether to use the reflection chatbot. I had made it optional, but I hadn’t provided another guided route into reflection.\nI survey students at the beginning of each semester to get to know them and inform my teaching. In those surveys, students have expressed ethical, environmental, and educational reservations about AI. More students preferred not to use it than I had anticipated when designing these activities. Their choice meant they could miss an opportunity to practice reflection, something I wanted everyone to develop. Taking their concerns seriously meant looking again at my own design. Students can now work through the reflection framework independently. For spring, I’m considering how to give that option better guidance.\nWho establishes acceptable practices through their judgments, values, participation, and authority? The bicycle has followed me from a reading into my research, and then into my classroom. We are still working out what appropriate AI use looks like, and people bring different experiences and values to that conversation. Don’s worksheets pushed me to consider how stakeholder perspectives need to shape my research and teaching from the beginning. I cannot assume that researchers or students share the same enthusiasm, reservations, or priorities. Their participation should influence how I design, evaluate, and revise practices, with care for inclusion, learning, and scientific integrity.\nAs I move into Ed Ferrier’s portion of COMPUT 502, I’m grateful to Don for helping me examine those conditions more closely. Thank you, Don, for the instruction that continues to shape the questions I bring to my research and teaching."
   },
   {
     "objectID": "research.html",
@@ -182,31 +154,73 @@
     "text": "Idaho Institute for Human-Centered AI (I²HCAI)\nThis section will describe my work with the Idaho Institute for Human-Centered AI and related community-engaged research on AI in education, healthcare, and professional practice."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Lorraine Gaudio",
+    "objectID": "rise.html",
+    "href": "rise.html",
+    "title": "RISE Fellowship",
     "section": "",
-    "text": "PhD student in Computing at Boise State University · RISE Fellow\n\n\n\n\nI study how AI is reshaping knowledge creation and collective learning in research and education communities.\n\nMy research examines how people trust, verify, adapt, reject, and share AI-mediated practices, and how those patterns affect collective intelligence, scientific integrity, and human judgment.\n\nExplore my research View collaborations CV & selected work"
+    "text": "I am honored to have been selected for Boise State University’s competitive, NSF-funded Responsibility in Innovation and Scholarship Experience (RISE) traineeship. I enter the fellowship with an interdisciplinary foundation and practical experience examining responsible technology use empirically, collaboratively, and at the institutional level. Beginning in fall 2026, I am building on that preparation through coursework, stakeholder engagement, and university initiatives that connect AI innovation with human values and human flourishing.\nRead My Student Bio"
   },
   {
-    "objectID": "index.html#current-research-focus",
-    "href": "index.html#current-research-focus",
-    "title": "Lorraine Gaudio",
-    "section": "Current research focus",
-    "text": "Current research focus\nAI systems are becoming part of how researchers generate ideas, evaluate evidence, make decisions, and learn from one another. I study these changes as features of a larger sociotechnical system involving people, AI tools, institutions, networks, practices, and norms.\nAcross this work, I ask how AI-mediated practices spread through communities, how people decide when to rely on or question AI, and how repeated interactions may shape collaboration, diversity of knowledge, and scientific self-correction.\nMethodologically, I draw on social network analysis, data analytics, and mixed methods. I am also developing computational and agent-based modeling approaches to study human-AI systems over time.\n\nSocial network analysis Human-AI systems Data analytics Collective intelligence Scientific integrity Computational modeling"
+    "objectID": "rise.html#rise",
+    "href": "rise.html#rise",
+    "title": "RISE Fellowship",
+    "section": "RISE traineeship",
+    "text": "RISE traineeship\nBoise State University’s Responsibility in Innovation and Scholarship Experience (RISE) program is supported by a nearly $2 million award from the U.S. National Science Foundation’s Research Traineeship program under award no. 2509828.\nRISE prepares AI graduate researchers to anticipate the potential social harms of emerging technologies, work with the people those technologies may affect, and adapt their work in response. The program brings researchers in computing, engineering, and other STEM disciplines together with faculty from the humanities and social sciences, industry professionals, and community stakeholders. Its goal is to bridge technical AI training with a broader understanding of social issues and human values so that AI research and innovation can contribute to human flourishing.\nThe traineeship uses a team-science approach that includes coursework, mentoring, stakeholder workshops, roundtable discussions, professional development, and industry experiences. Twenty-five graduate students are expected to complete the full training experience, including fifteen funded trainees, while at least 200 additional Boise State students will participate in individual elements of the program. Through this structure, RISE seeks to strengthen responsible AI education, broaden participation in technology development, and prepare researchers for collaborative work across academia, government, and industry."
   },
   {
-    "objectID": "index.html#explore-my-work",
-    "href": "index.html#explore-my-work",
-    "title": "Lorraine Gaudio",
-    "section": "Explore my work",
-    "text": "Explore my work\n\n\nCurrent PhD research\nI examine how AI-mediated practices move through research communities and how trust, verification, and social learning shape their adoption.\nExplore my research\n\n\nRISE Fellowship\nAs a RISE Fellow, I study the societal impacts of emerging technologies through interdisciplinary and stakeholder-engaged research.\nLearn about RISE\n\n\nHuman-Centered AI Collaborations\nI contribute to interdisciplinary projects examining how AI is changing research, education, and professional practice.\nView collaborations\n\n\nTeaching and Learning\nI teach Introduction to R Programming and design learning environments centered on coding, AI use, student agency, and reproducible practice.\nExplore my teaching\n\n\nSocial Network Analysis\nMy master’s research used social network analysis to examine interdisciplinary collaboration and the structure of research relationships.\nRead about my master’s research"
+    "objectID": "rise.html#bootcamp",
+    "href": "rise.html#bootcamp",
+    "title": "RISE Fellowship",
+    "section": "RISE bootcamp",
+    "text": "RISE bootcamp\nBefore beginning my funded traineeship, I attended the two-day RISE Spring Bootcamp on January 7 and 8, 2026 and then again August 17 and 18. The bootcamp introduced RISE applicants to Responsible Research and Innovation and provided opportunities to evaluate the societal impacts of AI-related work, learn how government and industry professionals approach ethical AI development, and connect with other researchers interested in responsible innovation.\nAs part of the bootcamp, I completed a researcher-values exercise examining how different priorities can shape responsible AI. I identified agency as an essential value because people should be able to understand, question, and meaningfully influence how AI affects their work, education, and communities. I also considered the tension between human-centered values and return on investment, particularly when short-term efficiency is prioritized over autonomy, integrity, or long-term social consequences. Finally, I identified tenacity as an easily overlooked value that can help people use AI without surrendering the persistence, judgment, and accountability necessary for learning and trustworthy work.\nThe bootcamp culminated in an Individual Development Plan connecting my career, skill-development, and project goals. The plan will serve as a living guide for developing interdisciplinary relationships, strengthening my research and communication skills, and contributing to public conversations about responsible AI. When I return for the fall bootcamp, I will revisit these priorities, connect with the incoming RISE cohort, and refine the plan as my traineeship develops."
   },
   {
-    "objectID": "index.html#selected-scholarship",
-    "href": "index.html#selected-scholarship",
-    "title": "Lorraine Gaudio",
-    "section": "Selected scholarship",
-    "text": "Selected scholarship\nGaudio, E. L. (2024). The dawn of advanced collaborative practices: Charting transdisciplinary synergies through thematic and social network analysis within Boise State’s Grand Challenges initiative. Boise State University Theses and Dissertations.\nRead my master’s thesis\nGaudio, L., Larson, A., Dunn, L., & McClure, C. J. W. (2023). Temperature changes are associated with the breeding phenology of Mountain Bluebirds (Sialia currucoides) in southern Idaho. The Wilson Journal of Ornithology.\nView the publication\nSee more selected work"
+    "objectID": "rise.html#comput-502",
+    "href": "rise.html#comput-502",
+    "title": "RISE Fellowship",
+    "section": "COMPUT 502",
+    "text": "COMPUT 502\nI am taking COMPUT 502: Societal Impacts of Emerging Technologies as part of the RISE curriculum. The course will provide a structured setting for examining how emerging technologies interact with human values, institutions, communities, and existing social conditions. I expect it to strengthen my ability to anticipate possible consequences, engage with stakeholder perspectives, and communicate about responsible innovation across disciplines. I will expand this section with specific topics and reflections as the course progresses.\nRead my mid-semester reflection: A Bicycle, Subject to Approval."
+  },
+  {
+    "objectID": "rise.html#comput-598",
+    "href": "rise.html#comput-598",
+    "title": "RISE Fellowship",
+    "section": "COMPUT 598",
+    "text": "COMPUT 598\n\nWho Does What?\nOn September 14, 2026, I led Who Does What? as part of RISE Roundtable Seminars. I designed a workflow activity and prepared presentation and worksheet materials in multiple formats to support participation. Faculty and doctoral students from different disciplines compared how they understood and evaluated examples of generative AI use in research. I was surprised by how differently faculty responded to the same example workflows. Their disagreements reinforced for me the importance of discussing expectations about AI use, verification, and responsibility with collaborators. Preparing and facilitating the session also helped me clarify my own developing research direction. Explaining my ideas to an interdisciplinary audience helped me articulate what I wanted to investigate and how the work could benefit participating researchers while contributing to scientific integrity. I left with greater confidence in my direction and practical suggestions to consider as I develop the research. The experience showed me how much I can learn about my own ideas through preparing a conversation and listening to how others respond."
+  },
+  {
+    "objectID": "rise.html#sioc",
+    "href": "rise.html#sioc",
+    "title": "RISE Fellowship",
+    "section": "Social Impacts of Computing",
+    "text": "Social Impacts of Computing\nBoise State’s Social Impacts of Computing (SioC) community explores and helps shape the evolving relationship between computing and society. Through workshops and transdisciplinary conversations, SioC brings together faculty, students, industry professionals, and community partners to examine how computing affects human flourishing and how competing values can inform responsible innovation.\nMy involvement has developed across each of the three annual workshops. I attended the inaugural SioC workshop, helped plan and evaluate the second workshop in 2025, and will attend the third workshop in September 2026. SioC conversations have directed my academic and professional interests. I am proud to have to opportunity to experience what the community discusses, values, and learns.\n\nSioC 2025 workshop analysis\nThe 2025 workshop, Emerging Technologies and Well-Being, brought together 71 participants from education, business, government, healthcare, technology, finance, and other sectors. The program combined panels and demonstrations with participant-directed unconference discussions about extended reality, education, the environment, healthcare, and artificial intelligence.\nFollowing the workshop, I analyzed registration and attendance data, pre-workshop responses, post-workshop feedback, and participant-generated notes from sticky notes and whiteboards. I used thematic analysis to identify recurring concerns and interests, and network analysis to examine how values appeared together in participants’ descriptions of the social impacts of computing. Responsibility, transparency, and integrity formed the most central cluster of values, while the analysis also identified collaboration, curiosity, privacy, inclusivity, equity, and environmental stewardship as important parts of the community’s conversation. I combined these findings with participation patterns and event feedback to develop recommendations for future SioC activities.\nRead the SioC 2025 event summary and view the SioC 2025 value network analysis.\n\n\nSioC 2026 workshop\nThe Social Impacts of Computing Workshop 2026 will take place September 17 and 18 at Boise State University. Its sessions will address AI hesitance, AI across education, RISE and AI scholarship, and collaborative problem solving through the Tech Kitchen. Each session will combine an introduction, a cross-sector panel, and audience-led roundtable discussions."
+  },
+  {
+    "objectID": "rise.html#rise-community",
+    "href": "rise.html#rise-community",
+    "title": "RISE Fellowship",
+    "section": "RISE community and professional development",
+    "text": "RISE community and professional development\nBeginning in fall 2026, I will participate in stakeholder meetings, mentoring, cohort activities, and professional-development events. These recurring experiences will provide opportunities to learn from researchers and community partners, contribute to interdisciplinary conversations, and develop relationships across fields and sectors. They will also create a space to reflect on how responsible innovation can be practiced collaboratively and adapted in response to stakeholder perspectives."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV & Selected Work",
+    "section": "",
+    "text": "My curriculum vitae provides a concise record of my education, research experience, teaching, publications, presentations, funding, and service.\nOpen or download my CV (PDF)\nUpdated August 2026. The PDF opens in a new browser tab."
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
+    "title": "CV & Selected Work",
+    "section": "",
+    "text": "My curriculum vitae provides a concise record of my education, research experience, teaching, publications, presentations, funding, and service.\nOpen or download my CV (PDF)\nUpdated August 2026. The PDF opens in a new browser tab."
+  },
+  {
+    "objectID": "cv.html#selected-academic-work",
+    "href": "cv.html#selected-academic-work",
+    "title": "CV & Selected Work",
+    "section": "Selected academic work",
+    "text": "Selected academic work\n\n\nMaster’s thesis\nThe Dawn of Advanced Collaborative Practices uses thematic and social network analysis to examine interdisciplinary collaboration within Boise State University’s Grand Challenges initiative.\nRead the thesis\n\n\nMountain Bluebird research\nThis peer-reviewed study examines relationships between temperature and the breeding phenology of Mountain Bluebirds in southern Idaho using a long-term community-science dataset.\nView the publication"
   }
 ]
