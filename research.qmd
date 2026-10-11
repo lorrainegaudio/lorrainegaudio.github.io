@@ -1,5 +1,6 @@
 ---
 title: "Research"
+toc: false
 ---
 
 ## Research focus {#current-direction}

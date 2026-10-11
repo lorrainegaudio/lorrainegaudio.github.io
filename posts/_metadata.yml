@@ -1,0 +1,5 @@
+# Share the reflection header across current and future posts.
+format:
+  html:
+    template-partials:
+      - ../_templates/post/title-block.html

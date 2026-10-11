@@ -3,9 +3,9 @@ title: "Reflections"
 toc: false
 listing:
   contents: posts
-  type: default
+  template: _templates/reflections.ejs.md
   sort: "date desc"
-  fields: [date, title, description, categories]
+  fields: [date, title, description, categories, image]
   sort-ui: false
   filter-ui: false
 ---

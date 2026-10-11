@@ -1,5 +1,6 @@
 ---
 title: "RISE Fellowship"
+toc: false
 ---
 
 I am honored to have been selected for Boise State University’s competitive, NSF-funded Responsibility in Innovation and Scholarship Experience (RISE) traineeship. I enter the fellowship with an interdisciplinary foundation and practical experience examining responsible technology use empirically, collaboratively, and at the institutional level. Beginning in fall 2026, I am building on that preparation through coursework, stakeholder engagement, and university initiatives that connect AI innovation with human values and human flourishing.
@@ -26,7 +27,7 @@ The bootcamp culminated in an Individual Development Plan connecting my career, 
 
 I am taking COMPUT 502: Societal Impacts of Emerging Technologies as part of the RISE curriculum. The course will provide a structured setting for examining how emerging technologies interact with human values, institutions, communities, and existing social conditions. I expect it to strengthen my ability to anticipate possible consequences, engage with stakeholder perspectives, and communicate about responsible innovation across disciplines. I will expand this section with specific topics and reflections as the course progresses.
 
-[Read my mid-semester reflection: A Bicycle, Subject to Approval](posts/bicycle-subject-to-approval/index.qmd).
+[Read my mid-semester reflection: A Bicycle, Subject to Approval](posts/comput-502-mid-course-reflection/index.qmd).
 
 ## COMPUT 598 {#comput-598}
 

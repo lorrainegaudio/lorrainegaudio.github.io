@@ -1,5 +1,6 @@
 ---
 title: "Human-Centered AI Collaborations"
+toc: false
 ---
 
 These collaborations trace how my interest in human-centered and responsible AI developed through practice. Each grew from relationships and questions that emerged through earlier work: AIROE developed from my master's research and university conversations about ethical AI use; the AI Institute created an opportunity to study how faculty learn with and about AI; and the Idaho Institute for Human-Centered AI extends that progression into a broader collaboration. Together, they have shaped my research direction around knowledge, values, collaboration, and responsible engagement with emerging technologies.

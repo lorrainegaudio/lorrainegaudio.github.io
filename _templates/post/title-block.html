@@ -1,0 +1,33 @@
+<header id="title-block-header" class="quarto-title-block default reflection-header">
+<div class="quarto-title">
+$if(title)$
+<h1 class="title mb-2">$title$</h1>
+$endif$
+$if(subtitle)$
+<p class="subtitle lead">$subtitle$</p>
+$endif$
+$if(hide-description)$
+$elseif(description)$
+<div class="description">$description$</div>
+$endif$
+
+<p class="small mt-3 mb-0">
+$for(by-author)$
+<span class="author">$_title-meta-author.html()$</span>$sep$, 
+$endfor$
+$if(date)$
+<span class="date text-nowrap">$if(by-author)$<span aria-hidden="true"> · </span>$endif$<span class="visually-hidden">$labels.published$: </span>$date$</span>
+$endif$
+</p>
+
+$if(categories)$
+$if(quarto-template-params.title-block-categories)$
+<div class="quarto-categories mt-3">
+$for(categories)$
+<div class="quarto-category">$categories$</div>
+$endfor$
+</div>
+$endif$
+$endif$
+</div>
+</header>
