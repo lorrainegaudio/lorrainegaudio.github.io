@@ -26,6 +26,8 @@ The bootcamp culminated in an Individual Development Plan connecting my career, 
 
 I am taking COMPUT 502: Societal Impacts of Emerging Technologies as part of the RISE curriculum. The course will provide a structured setting for examining how emerging technologies interact with human values, institutions, communities, and existing social conditions. I expect it to strengthen my ability to anticipate possible consequences, engage with stakeholder perspectives, and communicate about responsible innovation across disciplines. I will expand this section with specific topics and reflections as the course progresses.
 
+[Read my mid-semester reflection: A Bicycle, Subject to Approval](posts/bicycle-subject-to-approval/index.qmd).
+
 ## COMPUT 598 {#comput-598}
 
 ### Who Does What?

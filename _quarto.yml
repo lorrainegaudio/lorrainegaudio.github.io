@@ -11,6 +11,7 @@ website:
   site-url: "https://lorrainegaudio.github.io"
 
   navbar:
+    collapse-below: xl
     title: "Lorraine Gaudio"
     right:
       - text: "Home"
@@ -23,6 +24,8 @@ website:
         href: rise.qmd
       - text: "Teaching"
         href: teaching.qmd
+      - text: "Reflections"
+        href: blog.qmd
       - text: "CV & Selected Work"
         href: cv.qmd
 

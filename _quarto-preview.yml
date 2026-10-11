@@ -1,0 +1,7 @@
+# Local draft review only: quarto preview . --profile preview
+# Ordinary renders keep the website's normal draft and output settings.
+project:
+  output-dir: .quarto/reflections-preview
+
+website:
+  draft-mode: visible

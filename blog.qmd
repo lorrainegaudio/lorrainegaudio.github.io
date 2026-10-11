@@ -1,0 +1,11 @@
+---
+title: "Reflections"
+toc: false
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  fields: [date, title, description, categories]
+  sort-ui: false
+  filter-ui: false
+---
