@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lorrainegaudio.github.io/cv.html</loc>
-    <lastmod>2026-08-29T02:11:30.163Z</lastmod>
+    <loc>https://lorrainegaudio.github.io/blog.html</loc>
+    <lastmod>2026-10-11T03:41:47.313Z</lastmod>
   </url>
   <url>
-    <loc>https://lorrainegaudio.github.io/rise.html</loc>
-    <lastmod>2026-09-16T21:19:10.263Z</lastmod>
+    <loc>https://lorrainegaudio.github.io/index.html</loc>
+    <lastmod>2026-08-28T22:58:43.605Z</lastmod>
   </url>
   <url>
     <loc>https://lorrainegaudio.github.io/research.html</loc>
@@ -21,7 +21,11 @@
     <lastmod>2026-07-27T03:00:59.590Z</lastmod>
   </url>
   <url>
-    <loc>https://lorrainegaudio.github.io/index.html</loc>
-    <lastmod>2026-08-28T22:58:43.605Z</lastmod>
+    <loc>https://lorrainegaudio.github.io/rise.html</loc>
+    <lastmod>2026-10-11T03:41:47.313Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lorrainegaudio.github.io/cv.html</loc>
+    <lastmod>2026-08-29T02:11:30.163Z</lastmod>
   </url>
 </urlset>
