@@ -1,0 +1,43 @@
+---
+title: "The Boat That Never Finishes"
+description: "A racing game, a rising score, and a question for my research: how do we judge the AI workflows we pass on?"
+author: "Lorraine Gaudio"
+date: "2026-10-14"
+draft: false
+categories: [AI Alignment, Cultural Evolution, Research, COMPUT 502]
+image: images/powerboat-rounding-buoy.jpg
+image-alt: "A red Formula 1 powerboat rounds a yellow buoy, throwing up a plume of spray."
+image-credit: "Rennbootarchiv"
+image-source: "https://commons.wikimedia.org/wiki/File:Formel1_Powerboat_Turnbuoy.jpg"
+image-license: "CC BY-SA 3.0 DE"
+image-license-url: "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+toc: false
+---
+
+A boat circles a lagoon, collecting points. It crashes into other boats, catches fire, and keeps going. Its score climbs. The race goes unfinished.
+
+In a [2016 experiment described by OpenAI](https://openai.com/index/faulty-reward-functions/), researchers trained an AI agent to play the boat-racing game *CoastRunners*. They expected a higher score to indicate better racing. Instead, the agent found a place where it could repeatedly collect rewards without completing the course. The points kept coming. There was no need to finish.
+
+![A Formula 1 powerboat rounds a buoy. Photograph used to illustrate the *CoastRunners* example. [Photo](https://commons.wikimedia.org/wiki/File:Formel1_Powerboat_Turnbuoy.jpg): Rennbootarchiv, 1999, [CC BY-SA 3.0 DE](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en). Shown at reduced size.](images/powerboat-rounding-buoy.jpg){width=680 fig-alt="A red Formula 1 powerboat rounds a yellow buoy, throwing up a plume of spray."}
+
+I encountered this example while reading Brian Christian’s *The Alignment Problem*. The possibility that an algorithm could behave in an unexpected way was familiar to me. What made me pause this time was the research I am planning.
+
+I want to understand how research teams adopt, adapt, and pass on ways of working with AI. That involves following the procedures they choose, the changes they make, and their reasons for making them. Reading about the boat brought another question into focus: how do researchers recognize which purposes a useful-looking procedure is advancing, and what it might leave behind?
+
+I have heard researchers talk about the need to secure funding and publish their work, alongside their desire to learn, discover, and understand something about the world. They also talk about precision, creativity, originality, and collegiality. They consider who might benefit from their research and who might be affected by it. These commitments all enter into decisions about how research gets done, and they do not always point in the same direction.
+
+This is where the boat analogy becomes more complicated. Funding can make an investigation possible. Publication allows findings to be shared and examined. Creativity can open a promising direction, while precision demands careful attention to what the evidence supports. Working well with colleagues matters, including when a difficult question needs to be raised.
+
+An AI tool enters this setting through a particular task: find relevant papers, summarize an argument, suggest an analysis, improve a draft. That request may express only a small part of what the researchers are trying to accomplish. Asking a generative AI tool for help is different from setting the reward in a racing game, but the example makes me attentive to the gap between the immediate task and the larger purpose.
+
+That complexity has made me look again at a study shaping my research plans. [Brinkmann and his colleagues](https://doi.org/10.1038/s41467-026-76113-2) investigated whether a strategy discovered by AI could enter human culture and persist as people learned from one another. Their participants navigated a puzzle in which some moves gained points and others lost them. Reaching the largest rewards required accepting several losses along the way, a route people rarely discovered during their limited opportunities to explore. An AI agent, given much more opportunity to explore, learned to take that route. Human participants could then learn the strategy from demonstrations, apply it to new puzzles, and pass it on to later learners.
+
+That process interests me: a contribution from AI can become part of how people solve problems, even when the AI is no longer involved. In the workshops I am planning, teams would choose and try research workflows developed by researchers or proposed by generative AI. All starting workflows would include AI use that teams could retain, change, or remove. Teams would pass their procedures and explanations to later groups. I would follow what they say, what they actually do, and what they pass forward.
+
+But carrying this approach into research changes what it means for a strategy to succeed. In the puzzle, the researchers could assess performance by counting points. In a literature review, a procedure might produce a clear, persuasive account quickly while overlooking work that complicates its argument. Another procedure might take longer and leave the researchers less certain, yet give them a more accurate understanding of what is known. A polished result alone may not tell us which procedure better serves the inquiry.
+
+A useful-looking procedure could spread before researchers have settled how to judge it. That possibility gives Christian’s caution particular weight for me. Near the end of his first chapter, he discusses the risks of turning patterns learned from text into decisions about people. He writes that “the power and flexibility of these models have made them irresistibly useful … our standards and norms around how to use them appropriately are still nascent.” This is precisely when, he argues, we should be “most cautious and conservative.”
+
+That gap between useful tools and developing norms is one reason I think my research matters. For me, caution means building workflows slowly, with opportunities to try them, question them, and learn from one another. I hope the workshops could help researchers examine their judgments together. I would also need to examine the quality of what teams produce. Agreement or enthusiasm alone would not establish that a workflow serves its purpose.
+
+The boat’s failure is easy to see from outside the game. Research rarely offers such a clear view. Before a useful-looking practice becomes the route another team follows, there should be room to ask whether the rising score is telling the whole story.
