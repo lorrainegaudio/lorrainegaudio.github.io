@@ -11,7 +11,11 @@ page-layout: full
 ::: {.g-col-12 .g-col-md-7 .hero-copy}
 
 ::: {.hero-eyebrow}
-PhD student in Computing at Boise State University · RISE Fellow
+PhD student in Computing at Boise State University 
+
+RISE Fellow
+
+Graduate Certificate in Human-Environment Systems
 :::
 
 # Lorraine Gaudio
@@ -109,10 +113,17 @@ My master's research used social network analysis to examine interdisciplinary c
 [Read about my master's research](research.qmd#masters-thesis)
 :::
 
+::: {.node-card .node-six}
+### Reflections
+
+Several times each semester, I write reflections on AI ethics in research, teaching, and learning. 
+
+[Read about reflections blog](blog.qmd)
 :::
 
 :::
 
+:::
 
 ::: {.home-section .selected-work}
 

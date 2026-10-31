@@ -240,7 +240,11 @@ main.content {
 }
 
 .node-five {
-  border-top: 8px solid #6d7f99;
+  border-top: 8px solid #3e7286;
+}
+
+.node-six {
+  border-top: 8px solid #b99b4a;
 }
 
 /* Buttons */
