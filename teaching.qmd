@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+toc: false
 ---
 
 My teaching is grounded in the belief that students learn best when they are supported through productive struggle, clear expectations, and meaningful opportunities to practice. I am especially interested in how students learn technical skills in the AI era while developing agency, persistence, transparency, and critical judgment.

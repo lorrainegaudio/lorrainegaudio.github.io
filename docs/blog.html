@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-date','listing-title','listing-description','listing-categories','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-website","listing-format","listing-engines","listing-language","listing-title","listing-description","listing-author","listing-date","listing-draft","listing-categories","listing-image","listing-image-alt","listing-image-credit","listing-image-source","listing-image-license","listing-image-license-url","listing-toc","listing-path","listing-outputHref","listing-date-modified","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-engines","listing-language","listing-title","listing-description","listing-author","listing-date","listing-draft","listing-categories","listing-image","listing-image-alt","listing-image-caption","listing-toc","listing-path","listing-outputHref","listing-date-modified","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-image-credit","listing-image-source","listing-image-license","listing-image-license-url"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -223,10 +223,46 @@ window.Quarto = {
 
 <div class="list node-grid d-flex flex-column">
 
-  <article class="node-card node-one position-relative" data-index="0" data-categories="QUklMjBBbGlnbm1lbnQlMkNDdWx0dXJhbCUyMEV2b2x1dGlvbiUyQ1Jlc2VhcmNoJTJDQ09NUFVUJTIwNTAy" data-listing-date-sort="1791957600000" data-listing-file-modified-sort="1791994177482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="926">
+  <article class="node-card node-one position-relative" data-index="0" data-categories="QUklMjBBbGlnbm1lbnQlMkNUZWFjaGluZyUyQ0NTJTIwNTMz" data-listing-date-sort="1794553200000" data-listing-file-modified-sort="1794608846396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2385">
     <div class="d-flex flex-column flex-md-row gap-4 align-items-start">
       <div class="flex-grow-1">
-        <h3 class="listing-title no-anchor" id="reflection-title-0">The Boat That Never Finishes</h3>
+        <h3 class="listing-title no-anchor" id="reflection-title-0">When the Denominator Changes</h3>
+
+        <p class="listing-date small text-muted">Nov 13, 2026</p>
+
+        <p class="listing-description mb-0">What the COMPAS debate taught me about measuring fairness and looking at student outcomes in my introductory R course.</p>
+
+        <div class="topic-tags listing-categories mb-3">
+
+          <span class="topic-tag">AI Alignment</span>
+
+          <span class="topic-tag">Teaching</span>
+
+          <span class="topic-tag">CS 533</span>
+
+        </div>
+
+        <p class="mt-3 mb-0"><a class="stretched-link" href="./posts/cs-533-assignment-3-reflection/index.html" aria-labelledby="reflection-title-0">Read reflection →</a></p>
+      </div>
+
+      <figure class="m-0 flex-shrink-0 figure">
+        <img src="./posts/cs-533-assignment-3-reflection/images/compas_classification_rates_wilson_ci.png" alt="Paired bars show similar precision and larger gaps in false-positive and false-negative rates for Black and White defendants." width="180" class="img-fluid figure-img" loading="lazy">
+
+        <figcaption class="small text-muted mt-1" style="max-width: 180px;">
+
+          Similar precision, different error rates.
+
+        </figcaption>
+
+      </figure>
+
+    </div>
+  </article>
+
+  <article class="node-card node-two position-relative" data-index="1" data-categories="QUklMjBBbGlnbm1lbnQlMkNDdWx0dXJhbCUyMEV2b2x1dGlvbiUyQ1Jlc2VhcmNoJTJDQ09NUFVUJTIwNTAy" data-listing-date-sort="1791957600000" data-listing-file-modified-sort="1791994177482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="926">
+    <div class="d-flex flex-column flex-md-row gap-4 align-items-start">
+      <div class="flex-grow-1">
+        <h3 class="listing-title no-anchor" id="reflection-title-1">The Boat That Never Finishes</h3>
 
         <p class="listing-date small text-muted">Oct 14, 2026</p>
 
@@ -244,15 +280,17 @@ window.Quarto = {
 
         </div>
 
-        <p class="mt-3 mb-0"><a class="stretched-link" href="./posts/alignment-problem-reflection/index.html" aria-labelledby="reflection-title-0">Read reflection →</a></p>
+        <p class="mt-3 mb-0"><a class="stretched-link" href="./posts/alignment-problem-reflection/index.html" aria-labelledby="reflection-title-1">Read reflection →</a></p>
       </div>
 
       <figure class="m-0 flex-shrink-0 figure">
         <img src="./posts/alignment-problem-reflection/images/powerboat-rounding-buoy.jpg" alt="A red Formula 1 powerboat rounds a yellow buoy, throwing up a plume of spray." width="180" class="img-fluid figure-img" loading="lazy">
 
         <figcaption class="small text-muted mt-1">
+
           Image: <a class="position-relative z-2" href="https://commons.wikimedia.org/wiki/File:Formel1_Powerboat_Turnbuoy.jpg">Rennbootarchiv</a><br>
           <a class="position-relative z-2" href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en">CC BY-SA 3.0 DE</a>
+
         </figcaption>
 
       </figure>
@@ -260,10 +298,10 @@ window.Quarto = {
     </div>
   </article>
 
-  <article class="node-card node-two position-relative" data-index="1" data-categories="Q3VsdHVyYWwlMjBFdm9sdXRpb24lMkNUZWFjaGluZyUyQ1Jlc2VhcmNoJTJDQ09NUFVUJTIwNTAy" data-listing-date-sort="1791612000000" data-listing-file-modified-sort="1791696287016" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="760">
+  <article class="node-card node-three position-relative" data-index="2" data-categories="Q3VsdHVyYWwlMjBFdm9sdXRpb24lMkNUZWFjaGluZyUyQ1Jlc2VhcmNoJTJDQ09NUFVUJTIwNTAy" data-listing-date-sort="1791612000000" data-listing-file-modified-sort="1791696287016" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="760">
     <div class="d-flex flex-column flex-md-row gap-4 align-items-start">
       <div class="flex-grow-1">
-        <h3 class="listing-title no-anchor" id="reflection-title-1">A Bicycle, Subject to Approval</h3>
+        <h3 class="listing-title no-anchor" id="reflection-title-2">A Bicycle, Subject to Approval</h3>
 
         <p class="listing-date small text-muted">Oct 10, 2026</p>
 
@@ -281,15 +319,17 @@ window.Quarto = {
 
         </div>
 
-        <p class="mt-3 mb-0"><a class="stretched-link" href="./posts/comput-502-mid-course-reflection/index.html" aria-labelledby="reflection-title-1">Read reflection →</a></p>
+        <p class="mt-3 mb-0"><a class="stretched-link" href="./posts/comput-502-mid-course-reflection/index.html" aria-labelledby="reflection-title-2">Read reflection →</a></p>
       </div>
 
       <figure class="m-0 flex-shrink-0 figure">
         <img src="./posts/comput-502-mid-course-reflection/images/Velocar.svg" alt="Illustration of Charles Mochet’s Velocar recumbent bicycle." width="180" class="img-fluid figure-img" loading="lazy">
 
         <figcaption class="small text-muted mt-1">
+
           Image: <a class="position-relative z-2" href="https://commons.wikimedia.org/wiki/File:Velocar.svg">Manotechnologie</a><br>
           <a class="position-relative z-2" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
+
         </figcaption>
 
       </figure>

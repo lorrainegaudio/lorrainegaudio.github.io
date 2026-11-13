@@ -26,10 +26,17 @@
       <figure class="m-0 flex-shrink-0">
         <img src="<%- item.image %>" alt="<%- item['image-alt'] || '' %>"
              width="180" class="img-fluid" loading="lazy">
-<% if (item['image-credit'] && item['image-source'] && item['image-license-url']) { %>
-        <figcaption class="small text-muted mt-1">
+<% const imageCaption = item['image-caption']; %>
+<% const hasImageCredit = item['image-credit'] && item['image-source'] && item['image-license-url']; %>
+<% if (imageCaption || hasImageCredit) { %>
+        <figcaption class="small text-muted mt-1"<% if (imageCaption) { %> style="max-width: 180px;"<% } %>>
+<% if (imageCaption) { %>
+          <%= imageCaption %><% if (hasImageCredit) { %><br><% } %>
+<% } %>
+<% if (hasImageCredit) { %>
           Image: <a class="position-relative z-2" href="<%- item['image-source'] %>"><%- item['image-credit'] %></a><br>
           <a class="position-relative z-2" href="<%- item['image-license-url'] %>"><%- item['image-license'] %></a>
+<% } %>
         </figcaption>
 <% } %>
       </figure>
