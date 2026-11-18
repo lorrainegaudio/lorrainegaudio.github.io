@@ -1,0 +1,85 @@
+---
+title: "What's a Mind?"
+description: "Frustrations with anthropomorphism in AI communication"
+author: "Lorraine Gaudio"
+date: "NOT PUBLISHED YET"
+draft: true
+categories: [Anthropomorphism, Apocalyptic AI, COMPUT 502]
+image: images/HOLD.png
+image-alt: "HOLD"
+image-caption: "HOLD"
+toc: true
+---
+
+The latest software technologies can appear remarkably like human life. It *learns*. It *thinks*. It *understands*. To be clear, no one has established that it has a mind. Yet the language used in computer science suggests to the average person in society that it has one. 
+
+*Hallucinations* is a term used to describe a model producing outputs that are not grounded in reality. I suspect that most people have heard that term used to describe AI errors. I wonder if most people understand it as a technical description of a statistical process. The term hallucination in our culture is associated with a state of mind that is confused, deluded, or even mentally ill.
+
+Karen Hao points out in her book *Empire of AI* that invention of the phrase of artificial intelligence by John McCarthy's as "casual athropomorphizing and breathless exaggerations about the technology's capabilities" (Hao, 2025, p. 90). I agree. The use of the word *intelligence* carries associations with lived experience, intention, and feeling.
+
+This is where my frustration begins.
+
+I recently read Eliezer Yudkowsky and Nate Soares’s *If Anyone Builds It, Everyone Dies* for my COMPUT 502 class. Of the literature I have read about artificial intelligence, this book is the most persistent example of something that troubles me about AI communication. Human words carrying associations with experience, intention, and feeling, is repeatedly used to explain AI software. I understand that this is partly a limitation of our language. Yet it is easy to imagine computer science terms into incorrect understandings of software capabilities.
+
+Yudkowsky and Soares describe AI as “grown, not crafted” in chapter two. Their explanation develops a legitimate concern. Engineers can understand the procedures used to train a model without fully understanding the behavior that results. But describing that process through comparisons with making babies and being parents invites the reader into a much larger story about what this technology is.
+
+Growing up means something to each of us. We all did it or are still doing it now. It involves a childhood of relationships and experiences that unfold over time. Our biology and hormones affect how we develop. Growing up involves emotional experiences like being frightened, frustrated, curious, or delighted. The training procedure of AI software involves adjusting parameters through mathematical optimization. Using related vocabulary implies that these processes involve equivalent experiences. 
+
+Technical terms can have precise meanings within a discipline. My concern is what happens when they travel into public communication without their boundaries traveling with them. A reader should not need a background in machine learning to discover where a metaphor ends and an evidentiary claim begins.
+
+Yudkowsky and Soares do acknowledge boundaries when making perverse comparisons. They metaphorically draw a parallel between AI engineers creating AI and parents making babies (p 35). They title their third chapter "Learning to want" and then explain that their use of wanting describes outward, goal-directed behavior and does not establish that a machine has feelings (p.47). Those qualifications do not prevent the reader from inferring that the AI engineers are participating ["in the divine act of creation" (see 111)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html#:~:text=111.%20I%20wish%20to%20address), or that the software has a desires like you and me. 
+
+Yudkowsky and Soares not only compare the software to a human life and invites the reader to imagine that it has a mind. They ask the reader to *feel* their metaphors such as by watching a video of kinesin, a protein that moves along microtubules in cells (p. 42). Comparing these proteins to machines, they fail to mention that kinesin movement happens through chemical reactions and does not involve any conscious intention. 
+
+Certainly, a technology can cause substantial harm without having feelings or a conscious intention to hurt anyone. However, careful descriptions of software capabilities are vital. The public consequences of anthropomorphic language concerns me. 
+
+Software that appears to understand may promote [authoritative trust](https://theconversation.com/why-ai-resembles-a-charismatic-religious-leader-291831). Software described as developing hidden desires may [inspire fear](https://www.communicationstoday.co.in/a-conversation-with-bings-chatbot-left-me-deeply-unsettled/). Repeatedly presenting a catastrophic future as inevitable could also encourage fatalism, especially when readers have little basis for evaluating the assumptions behind that forecast (e.g., [Is there any hope for the future](https://www.reddit.com/r/antiai/comments/1wcs6us/is_there_any_hope_for_the_future_if_ai_is_just/) and [There's nothing I can do](https://www.lesswrong.com/posts/oxKnW7bJLLkk96vGK/there-s-nothing-i-can-do).
+
+These concerns might impact the behavioral choices of participants in my PhD research. More importantly, anthropomoric language can affect the public’s response to misinformation about what AI is and what it can do.   
+
+Yuval Noah Harari’s *Nexus* helped me understand how circulating information sustains shared beliefs and shapes the social reality we inhabit. Harari uses examples like money, national borders, and even propaganda about the existence of witches shape social behavior and institutions recognize them and act accordingly. Documents create reality (p. 48). Information can become accepted as truth and acquire considerable effort to correct, even when its factual basis is uncertain or disputed. Science communication around emerging technologies carries societal responsibilities. 
+
+Descriptions of AI can shape what people believe the technology is, what they expect from it, and how they respond to it. This is not why I feel frustrated by anthropomorphic language. 
+
+As I tried to understand my irritation, I began pulling other books from my shelves. I kept returning to books about animal intelligence. I have long been interested in the mental lives of other species. I realize that I am frustrated by the resistance to recognizing the mental capacity of other animals.
+
+In *Are We Smart Enough to Know How Smart Animals Are?*, Frans de Waal recognizes our resistance to recognizing mental capacities in other species (2017). He discusses anthropodenial, the prior rejection of humanlike characteristics in other animals or animal characteristics in ourselves. Our shared evolutionary history gives us reasons to consider continuity. Other animals did not arrive in the world through a completely separate biological process. It is far more logical to assume continuity in every domain of life, including cognition (p. 23).
+
+The reasons for anthropodenial are complex. Paul S. Silverman’s chapter “A Pragmatic Approach to the Inference of Animal Mind” in Anthropomorphism, Anecdotes, and Animals reviews debates about whether and when we can attribute mental states to animals (1997, pp. 170–185). He examines both philosophical criteria for justifying those inferences and methodological criteria for investigating them. What particularly interests me is his discussion of Type I and Type II errors and how their consequences influence judgments under uncertainty. Mistakenly denying an animal’s distress can leave suffering unaddressed, while mistakenly attributing distress can introduce additional obligations for researchers. Silverman considers these competing stakes, including concerns that the expense of complying with stringent animal welfare requirements could threaten research (p. 183-184). This reminds me of my earlier discussion of confusion matrices, where different errors carry different consequences for stakeholders. Accounting for those consequences can help guide decisions about precautions, but financial interests could also bias judgments about animal mental states. I find myself asking whose costs are being prioritized and how those priorities influence what researchers consider sufficient evidence..
+
+This is the inconsistency that gets me riled up. Considerable evidence has been demanded before recognizing animals’ mental lives. Meanwhile, language about software can seem to grant minds, intentions, and feelings remarkably readily. I find myself asking whose experiences count and who gets to decide.
+
+My willingness to recognize my dog’s mental life rests on more than familiar behavior. It also rests on biological and evolutionary continuity. I do not regard fluent conversational software as having a mind simply because it produces language associated with one. An expression of concern does not, by itself, demonstrate an experience of concern.
+
+Sapolsky’s Behave helped me articulate this distinction. In Chapter 1, he discusses how definitions carry values and vary across disciplines. His account of behavior also moves through nervous systems, sensory environments, hormones, development, and evolutionary history. The words we use for mental life summarize complicated phenomena. Reusing those words for a different process does not settle which properties the processes share.
+
+Henrich’s The Secret of Our Success raised a related concern for me. On print pages 10–12, he explains the importance of culturally transmitted knowledge to human ecological dominance. Our achievements depend on information accumulated across people and generations. I use technologies that I could never have invented independently.
+
+This complicates a story centered on the exceptional power of an individual intelligence. It does not establish that intelligence is irrelevant or that powerful AI would be safe. It asks us to examine how capabilities depend on accumulated knowledge, cooperation, and the conditions in which they operate.
+
+I wanted to bring these relationships into our class discussion. I had prepared with several books and pages of notes. Instead, I became frustrated and called the assigned book stupid.
+
+I regret that. The word communicated my irritation while leaving most of my reasoning unavailable to the people listening. I had done considerable work, but very little of it reached the conversation.
+
+I also remember struggling when a guest invoked another expert’s estimate of catastrophic risk. I did not know enough about that particular estimate to evaluate it on the spot. I wanted to ask about the evidence and responsibility involved in communicating such a forecast, and I struggled to keep that question visible. I experienced parts of the exchange as combative. Without a recording, I cannot reconstruct every turn or confidently interpret anyone else’s intentions.
+
+I can take responsibility for my wording and still examine what made the discussion difficult. I can also ask more of my own argument. My confidence about animals and skepticism about artificial minds deserve explicit reasons. What evidence would change my view? Which comparisons are supported, and which am I accepting or rejecting because they fit what I already believe?
+
+I think this is where the reflection becomes useful to me. Beneath my irritation is a question I care about enough to study.
+
+How does anthropomorphic language change what people believe a system experiences? Does describing the same behavior as an output, a decision, or a desire change judgments about its agency or danger? Do explanations of the technical meaning help? How do people’s existing relationships with animals, technology, or religion shape those interpretations?
+
+I do not yet know whether these questions belong in my PhD. I want to give them a more deliberate place in my reading and thinking. Before deciding what research project might follow, I want to understand why these words matter so much to me, what they lead other people to infer, and how we could investigate those inferences carefully.
+
+
+
+
+
+
+
+
+
+
+
+
+
