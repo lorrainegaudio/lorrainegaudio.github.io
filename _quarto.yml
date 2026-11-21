@@ -30,7 +30,7 @@ website:
         href: cv.qmd
 
   page-footer:
-    left: "© 2026 Lorraine Gaudio | lorrainegaudio [at] boisestate [dot] edu"
+    left: "© 2026 Lorraine Gaudio | lorrainegaudio@boisestate.edu"
     right:
       - text: "LinkedIn"
         href: "https://www.linkedin.com/in/lorraine-gaudio/"
